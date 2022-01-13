@@ -1,0 +1,1001 @@
+﻿ID,Competitor Name,Sex,Age,Age Grouping,Height,Weight,National Code,Example 1,Example 2,Year,Season,Sport,Event,Medal
+1,A Dijiang,MALE,24,18-25,180,80,CHN,4,6,1992,Summer,Basketball,Basketball Men's Basketball,Not Registered
+2,A Lamusi,MALE,23,18-25,170,60,CHN,4,6,2012,Summer,Judo,Judo Men's Extra-Lightweight,Not Registered
+3,Gunnar Nielsen Aaby,MALE,24,18-25,NULL,NULL,DEN,4,6,1920,Summer,Football,Football Men's Football,Not Registered
+4,Edgar Lindenau Aabye,MALE,34,Over 30,NULL,NULL,DEN,4,6,1900,Summer,Tug-Of-War,Tug-Of-War Men's Tug-Of-War,Gold
+8,"Cornelia ""Cor"" Aalten (-Strannood)",Female,18,18-25,168,NULL,NED,4,6,1932,Summer,Athletics,Athletics Women's 100 metres,Not Registered
+8,"Cornelia ""Cor"" Aalten (-Strannood)",Female,18,18-25,168,NULL,NED,4,6,1932,Summer,Athletics,Athletics Women's 4 x 100 metres Relay,Not Registered
+10,"Einar Ferdinand ""Einari"" Aalto",MALE,26,25-30,NULL,NULL,FIN,4,6,1952,Summer,Swimming,Swimming Men's 400 metres Freestyle,Not Registered
+12,Jyri Tapani Aalto,MALE,31,Over 30,172,70,FIN,4,6,2000,Summer,Badminton,Badminton Men's Singles,Not Registered
+13,Minna Maarit Aalto,Female,30,25-30,159,55.5,FIN,4,6,1996,Summer,Sailing,Sailing Women's Windsurfer,Not Registered
+13,Minna Maarit Aalto,Female,34,Over 30,159,55.5,FIN,4,6,2000,Summer,Sailing,Sailing Women's Windsurfer,Not Registered
+15,Arvo Ossian Aaltonen,MALE,22,18-25,NULL,NULL,FIN,4,6,1912,Summer,Swimming,Swimming Men's 200 metres Breaststroke,Not Registered
+15,Arvo Ossian Aaltonen,MALE,22,18-25,NULL,NULL,FIN,4,6,1912,Summer,Swimming,Swimming Men's 400 metres Breaststroke,Not Registered
+15,Arvo Ossian Aaltonen,MALE,30,25-30,NULL,NULL,FIN,4,6,1920,Summer,Swimming,Swimming Men's 200 metres Breaststroke,Bronze
+15,Arvo Ossian Aaltonen,MALE,30,25-30,NULL,NULL,FIN,4,6,1920,Summer,Swimming,Swimming Men's 400 metres Breaststroke,Bronze
+15,Arvo Ossian Aaltonen,MALE,34,Over 30,NULL,NULL,FIN,4,6,1924,Summer,Swimming,Swimming Men's 200 metres Breaststroke,Not Registered
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Bronze
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Team All-Around,Gold
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Horse Vault,Gold
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+17,Paavo Johannes Aaltonen,MALE,28,25-30,175,64,FIN,4,6,1948,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Gold
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Team All-Around,Bronze
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Horse Vault,Not Registered
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+17,Paavo Johannes Aaltonen,MALE,32,Over 30,175,64,FIN,4,6,1952,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+18,Timo Antero Aaltonen,MALE,31,Over 30,189,130,FIN,4,6,2000,Summer,Athletics,Athletics Men's Shot Put,Not Registered
+19,Win Valdemar Aaltonen,MALE,54,Over 30,NULL,NULL,FIN,4,6,1948,Summer,Art Competitions,"Art Competitions Mixed Sculpturing, Unknown Event",Not Registered
+21,Ragnhild Margrethe Aamodt,Female,27,25-30,163,NULL,NOR,4,6,2008,Summer,Handball,Handball Women's Handball,Gold
+22,Andreea Aanei,Female,22,18-25,170,125,ROU,4,6,2016,Summer,Weightlifting,Weightlifting Women's Super-Heavyweight,Not Registered
+23,Fritz Aanes,MALE,22,18-25,187,89,NOR,4,6,2000,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Not Registered
+23,Fritz Aanes,MALE,26,25-30,187,89,NOR,4,6,2004,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Not Registered
+25,Alf Lied Aanning,MALE,24,18-25,NULL,NULL,NOR,4,6,1920,Summer,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver
+27,Johan Aantjes,MALE,26,25-30,NULL,NULL,NED,4,6,1984,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+28,Jan-Erik Aarberg,MALE,43,Over 30,170,77,NOR,4,6,1968,Summer,Sailing,Sailing Mixed Three Person Keelboat,Not Registered
+28,Jan-Erik Aarberg,MALE,47,Over 30,170,77,NOR,4,6,1972,Summer,Sailing,Sailing Mixed Three Person Keelboat,Not Registered
+29,Willemien Aardenburg,Female,22,18-25,NULL,NULL,NED,4,6,1988,Summer,Hockey,Hockey Women's Hockey,Bronze
+30,Pepijn Aardewijn,MALE,26,25-30,189,72,NED,4,6,1996,Summer,Rowing,Rowing Men's Lightweight Double Sculls,Silver
+30,Pepijn Aardewijn,MALE,30,25-30,189,72,NED,4,6,2000,Summer,Rowing,Rowing Men's Lightweight Double Sculls,Not Registered
+31,Evald rma (rman-),MALE,24,18-25,174,70,EST,4,6,1936,Summer,Athletics,Athletics Men's Pole Vault,Not Registered
+32,Olav Augunson Aarnes,MALE,23,18-25,NULL,NULL,NOR,4,6,1912,Summer,Athletics,Athletics Men's High Jump,Not Registered
+33,Mika Lauri Aarnikka,MALE,24,18-25,187,76,FIN,4,6,1992,Summer,Sailing,Sailing Men's Two Person Dinghy,Not Registered
+33,Mika Lauri Aarnikka,MALE,28,25-30,187,76,FIN,4,6,1996,Summer,Sailing,Sailing Men's Two Person Dinghy,Not Registered
+34,Jamale (Djamel-) Aarrass (Ahrass-),MALE,30,25-30,187,76,FRA,4,6,2012,Summer,Athletics,"Athletics Men's 1,500 metres",Not Registered
+36,Stefan Remco Aartsen,MALE,21,18-25,194,78,NED,4,6,1996,Summer,Swimming,Swimming Men's 100 metres Butterfly,Not Registered
+36,Stefan Remco Aartsen,MALE,21,18-25,194,78,NED,4,6,1996,Summer,Swimming,Swimming Men's 200 metres Butterfly,Not Registered
+36,Stefan Remco Aartsen,MALE,21,18-25,194,78,NED,4,6,1996,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
+36,Stefan Remco Aartsen,MALE,25,18-25,194,78,NED,4,6,2000,Summer,Swimming,Swimming Men's 100 metres Butterfly,Not Registered
+36,Stefan Remco Aartsen,MALE,25,18-25,194,78,NED,4,6,2000,Summer,Swimming,Swimming Men's 200 metres Butterfly,Not Registered
+37,Ann Kristin Aarnes,Female,23,18-25,182,64,NOR,4,6,1996,Summer,Football,Football Women's Football,Bronze
+38,Karl Jan Aas,MALE,20,18-25,NULL,NULL,NOR,4,6,1920,Summer,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Silver
+39,Lars Thorlaksn Aas,MALE,33,Over 30,NULL,NULL,NOR,4,6,1912,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+39,Lars Thorlaksn Aas,MALE,33,Over 30,NULL,NULL,NOR,4,6,1912,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+39,Lars Thorlaksn Aas,MALE,33,Over 30,NULL,NULL,NOR,4,6,1912,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+41,Rolf Aas,MALE,28,25-30,NULL,NULL,NOR,4,6,1920,Summer,Football,Football Men's Football,Not Registered
+42,Thomas Valentin Aas,MALE,25,18-25,NULL,NULL,NOR,4,6,1912,Summer,Sailing,Sailing Mixed 8 metres,Gold
+43,Morten Gjerdrum Aasen,MALE,34,Over 30,185,75,NOR,4,6,1992,Summer,Equestrianism,"Equestrianism Mixed Jumping, Individual",Not Registered
+45,Hakon Aasns,MALE,41,Over 30,NULL,NULL,NOR,4,6,1936,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Not Registered
+46,Hans Aasns,MALE,33,Over 30,194,93,NOR,4,6,1936,Summer,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Not Registered
+46,Hans Aasns,MALE,45,Over 30,194,93,NOR,4,6,1948,Summer,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Not Registered
+46,Hans Aasns,MALE,49,Over 30,194,93,NOR,4,6,1952,Summer,Shooting,Shooting Men's Trap,Not Registered
+46,Hans Aasns,MALE,53,Over 30,194,93,NOR,4,6,1956,Summer,Shooting,Shooting Men's Trap,Not Registered
+46,Hans Aasns,MALE,57,Over 30,194,93,NOR,4,6,1960,Summer,Shooting,Shooting Men's Trap,Not Registered
+47,Erling Rudolf Aastad,MALE,22,18-25,177,74,NOR,4,6,1920,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+47,Erling Rudolf Aastad,MALE,22,18-25,177,74,NOR,4,6,1920,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+47,Erling Rudolf Aastad,MALE,26,25-30,177,74,NOR,4,6,1924,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+47,Erling Rudolf Aastad,MALE,30,25-30,177,74,NOR,4,6,1928,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+48,Abdelhak Aatakni,MALE,24,18-25,NULL,64,MAR,4,6,2012,Summer,Boxing,Boxing Men's Light-Welterweight,Not Registered
+49,Moonika Aava,Female,24,18-25,168,65,EST,4,6,2004,Summer,Athletics,Athletics Women's Javelin Throw,Not Registered
+49,Moonika Aava,Female,28,25-30,168,65,EST,4,6,2008,Summer,Athletics,Athletics Women's Javelin Throw,Not Registered
+50,Arvi Aavik,MALE,22,18-25,185,106,EST,4,6,1992,Summer,Wrestling,"Wrestling Men's Heavyweight, Freestyle",Not Registered
+50,Arvi Aavik,MALE,26,25-30,185,106,EST,4,6,1996,Summer,Wrestling,"Wrestling Men's Heavyweight, Freestyle",Not Registered
+51,Nstor Abad Sanjun,MALE,23,18-25,167,64,ESP,4,6,2016,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+51,Nstor Abad Sanjun,MALE,23,18-25,167,64,ESP,4,6,2016,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+51,Nstor Abad Sanjun,MALE,23,18-25,167,64,ESP,4,6,2016,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+51,Nstor Abad Sanjun,MALE,23,18-25,167,64,ESP,4,6,2016,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+51,Nstor Abad Sanjun,MALE,23,18-25,167,64,ESP,4,6,2016,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+51,Nstor Abad Sanjun,MALE,23,18-25,167,64,ESP,4,6,2016,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+52,Patrick Abada,MALE,22,18-25,189,80,FRA,4,6,1976,Summer,Athletics,Athletics Men's Pole Vault,Not Registered
+53,Talaat Abada,MALE,24,18-25,172,58,EGY,4,6,2000,Summer,Taekwondo,Taekwondo Men's Flyweight,Not Registered
+54,Mohamed Jamshid Abadi,MALE,NULL,NULL,NULL,NULL,IRI,4,6,1948,Summer,Boxing,Boxing Men's Heavyweight,Not Registered
+55,Antonio Abadia Beci,MALE,26,25-30,170,65,ESP,4,6,2016,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+56,Ren Abadie,MALE,21,18-25,NULL,NULL,FRA,4,6,1956,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+56,Ren Abadie,MALE,21,18-25,NULL,NULL,FRA,4,6,1956,Summer,Cycling,"Cycling Men's Road Race, Team",Gold
+57,Borislav Abadzhiev,MALE,24,18-25,176,66,BUL,4,6,1988,Summer,Boxing,Boxing Men's Light-Welterweight,Not Registered
+58,Georgi Abadzhiev,MALE,NULL,NULL,NULL,NULL,BUL,4,6,1924,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+58,Georgi Abadzhiev,MALE,NULL,NULL,NULL,NULL,BUL,4,6,1924,Summer,Cycling,"Cycling Men's Road Race, Team",Not Registered
+59,Ivan Nikolov Abadzhiev,MALE,24,18-25,164,71,BUL,4,6,1956,Summer,Weightlifting,Weightlifting Men's Lightweight,Not Registered
+59,Ivan Nikolov Abadzhiev,MALE,28,25-30,164,71,BUL,4,6,1960,Summer,Weightlifting,Weightlifting Men's Middleweight,Not Registered
+60,Mikhail Abadzhiev,MALE,24,18-25,172,75,BUL,4,6,1960,Summer,Weightlifting,Weightlifting Men's Middleweight,Not Registered
+61,Stefan Abadzhiev,MALE,26,25-30,175,72,BUL,4,6,1960,Summer,Football,Football Men's Football,Not Registered
+62,Giovanni Abagnale,MALE,21,18-25,198,90,ITA,4,6,2016,Summer,Rowing,Rowing Men's Coxless Pairs,Bronze
+63,Jos Luis Abajo Gmez,MALE,30,25-30,194,87,ESP,4,6,2008,Summer,Fencing,"Fencing Men's epee, Individual",Bronze
+64,M'Bairo Abakar,MALE,31,Over 30,NULL,NULL,CHA,4,6,1992,Summer,Judo,Judo Men's Half-Middleweight,Not Registered
+65,Patimat Abakarova,Female,21,18-25,165,49,AZE,4,6,2016,Summer,Taekwondo,Taekwondo Women's Flyweight,Bronze
+66,Mohamed Abakkar,MALE,NULL,NULL,156,48,SUD,4,6,1972,Summer,Boxing,Boxing Men's Flyweight,Not Registered
+67,Mariya Vasilyevna Abakumova (-Tarabina),Female,22,18-25,179,80,RUS,4,6,2008,Summer,Athletics,Athletics Women's Javelin Throw,Silver
+67,Mariya Vasilyevna Abakumova (-Tarabina),Female,26,25-30,179,80,RUS,4,6,2012,Summer,Athletics,Athletics Women's Javelin Throw,Not Registered
+68,Pablo Martn Abal,MALE,23,18-25,178,76,ARG,4,6,2000,Summer,Swimming,Swimming Men's 100 metres Butterfly,Not Registered
+68,Pablo Martn Abal,MALE,23,18-25,178,76,ARG,4,6,2000,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
+69,Tamara Abalde Daz,Female,19,18-25,185,72,ESP,4,6,2008,Summer,Basketball,Basketball Women's Basketball,Not Registered
+70,Jess Iory Aball Martnez,MALE,26,25-30,167,65,CUB,4,6,2000,Summer,Diving,Diving Men's Platform,Not Registered
+71,Juan Antonio Aball Delgado,MALE,27,25-30,172,82,CUB,4,6,1992,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 500 metres",Not Registered
+71,Juan Antonio Aball Delgado,MALE,27,25-30,172,82,CUB,4,6,1992,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",Not Registered
+72,Aleksey Aleksandrovich Abalmasov,MALE,24,18-25,180,83,BLR,4,6,2004,Summer,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Not Registered
+72,Aleksey Aleksandrovich Abalmasov,MALE,28,25-30,180,83,BLR,4,6,2008,Summer,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Gold
+73,Luc Abalo,MALE,23,18-25,182,86,FRA,4,6,2008,Summer,Handball,Handball Men's Handball,Gold
+73,Luc Abalo,MALE,27,25-30,182,86,FRA,4,6,2012,Summer,Handball,Handball Men's Handball,Gold
+73,Luc Abalo,MALE,31,Over 30,182,86,FRA,4,6,2016,Summer,Handball,Handball Men's Handball,Silver
+74,Mara Laura Abalo,Female,30,25-30,182,73,ARG,4,6,2012,Summer,Rowing,Rowing Women's Coxless Pairs,Not Registered
+75,Giorgos Abalof,MALE,22,18-25,178,70,GRE,4,6,2004,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+76,Jouan Patrice Abanda Etong,MALE,22,18-25,185,82,CMR,4,6,2000,Summer,Football,Football Men's Football,Gold
+77,Antoine Abang,MALE,27,25-30,166,75,CMR,4,6,1968,Summer,Boxing,Boxing Men's Middleweight,Not Registered
+78,Salim Abanoz,MALE,26,25-30,NULL,NULL,TUR,4,6,1996,Summer,Judo,Judo Men's Lightweight,Not Registered
+79,Carlos Abarca Gonzlez,MALE,23,18-25,NULL,NULL,CHI,4,6,1924,Summer,Boxing,Boxing Men's Featherweight,Not Registered
+80,Jos Mara Abarca Plotas,MALE,22,18-25,186,83,ESP,4,6,1996,Summer,Water Polo,Water Polo Men's Water Polo,Gold
+81,Georgios Abaris,MALE,22,18-25,190,77,GRE,4,6,2004,Summer,Football,Football Men's Football,Not Registered
+82,Enrique Abaroa Martnez,MALE,26,25-30,183,75,MEX,4,6,2000,Summer,Tennis,Tennis Men's Doubles,Not Registered
+83,Carlos Arturo Abarza Chavez,MALE,22,18-25,NULL,NULL,CHI,4,6,1992,Summer,Shooting,Shooting Mixed Skeet,Not Registered
+84,Stephen Anthony Abas,MALE,26,25-30,165,55,USA,4,6,2004,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",Silver
+85,Alejandro Abascal Garca,MALE,24,18-25,181,82,ESP,4,6,1976,Summer,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Not Registered
+85,Alejandro Abascal Garca,MALE,28,25-30,181,82,ESP,4,6,1980,Summer,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Gold
+85,Alejandro Abascal Garca,MALE,32,Over 30,181,82,ESP,4,6,1984,Summer,Sailing,Sailing Mixed Two Person Heavyweight Dinghy,Not Registered
+86,Jos Manuel Abascal Gmez,MALE,22,18-25,182,67,ESP,4,6,1980,Summer,Athletics,"Athletics Men's 1,500 metres",Not Registered
+86,Jos Manuel Abascal Gmez,MALE,26,25-30,182,67,ESP,4,6,1984,Summer,Athletics,"Athletics Men's 1,500 metres",Bronze
+87,Rost'om Omeris dze Abashidze,MALE,29,25-30,188,97,URS,4,6,1964,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Not Registered
+88,Nunu Dzhansuhivna Abashydze (-Myslaieva),Female,25,18-25,168,105,URS,4,6,1980,Summer,Athletics,Athletics Women's Shot Put,Not Registered
+89,Rodrigo Abasolo,MALE,21,18-25,NULL,NULL,CHI,4,6,1984,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+90,Tamila Rashidovna Abasova,Female,21,18-25,163,60,RUS,4,6,2004,Summer,Cycling,Cycling Women's Sprint,Silver
+90,Tamila Rashidovna Abasova,Female,21,18-25,163,60,RUS,4,6,2004,Summer,Cycling,Cycling Women's 500 metres Time Trial,Not Registered
+91,Emanuele Abate,MALE,27,25-30,190,80,ITA,4,6,2012,Summer,Athletics,Athletics Men's 110 metres Hurdles,Not Registered
+92,Ignazio Abate,MALE,21,18-25,180,73,ITA,4,6,2008,Summer,Football,Football Men's Football,Not Registered
+93,Jol Marc Abati,MALE,34,Over 30,190,85,FRA,4,6,2004,Summer,Handball,Handball Men's Handball,Not Registered
+93,Jol Marc Abati,MALE,38,Over 30,190,85,FRA,4,6,2008,Summer,Handball,Handball Men's Handball,Gold
+94,Ral Abatte,MALE,38,Over 30,NULL,NULL,CHI,4,6,1984,Summer,Shooting,Shooting Mixed Trap,Not Registered
+95,Georgia Abatzidou,Female,35,Over 30,155,43,GRE,4,6,2004,Summer,Athletics,Athletics Women's Marathon,Not Registered
+96,Carlos Rodolfo Abaunza Balladares,MALE,18,18-25,168,60,NCA,4,6,2004,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+97,Carlos Alberto Abaunza,MALE,16,Under 18,180,70,NCA,4,6,1976,Summer,Athletics,Athletics Men's High Jump,Not Registered
+98,Hctor Abaunza,MALE,30,25-30,169,75,MEX,4,6,1968,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+98,Hctor Abaunza,MALE,30,25-30,169,75,MEX,4,6,1968,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+98,Hctor Abaunza,MALE,30,25-30,169,75,MEX,4,6,1968,Summer,Fencing,"Fencing Men's Sabre, Team",Not Registered
+99,Pter Abay,MALE,30,25-30,181,79,HUN,4,6,1992,Summer,Fencing,"Fencing Men's Sabre, Team",Silver
+100,Oszkr Abay-Nemes,MALE,22,18-25,NULL,NULL,HUN,4,6,1936,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+100,Oszkr Abay-Nemes,MALE,22,18-25,NULL,NULL,HUN,4,6,1936,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Bronze
+101,Adeyemi Abayomi,MALE,25,18-25,170,51,NGR,4,6,1972,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+102,Sayed Fahmy Abaza,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1920,Summer,Football,Football Men's Football,Not Registered
+102,Sayed Fahmy Abaza,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1928,Summer,Football,Football Men's Football,Not Registered
+103,Silvano Abba,MALE,25,18-25,NULL,NULL,ITA,4,6,1936,Summer,Modern Pentathlon,Modern Pentathlon Men's Individual,Bronze
+104,Gana Abba Kimet,MALE,26,25-30,NULL,NULL,CHA,4,6,1972,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+105,Ilyas Abbadi,MALE,19,18-25,175,75,ALG,4,6,2012,Summer,Boxing,Boxing Men's Welterweight,Not Registered
+105,Ilyas Abbadi,MALE,23,18-25,175,75,ALG,4,6,2016,Summer,Boxing,Boxing Men's Middleweight,Not Registered
+106,Agostino Abbagnale,MALE,22,18-25,188,96,ITA,4,6,1988,Summer,Rowing,Rowing Men's Quadruple Sculls,Gold
+106,Agostino Abbagnale,MALE,29,25-30,188,96,ITA,4,6,1996,Summer,Rowing,Rowing Men's Double Sculls,Gold
+106,Agostino Abbagnale,MALE,34,Over 30,188,96,ITA,4,6,2000,Summer,Rowing,Rowing Men's Quadruple Sculls,Gold
+107,Carmine Abbagnale,MALE,22,18-25,182,90,ITA,4,6,1984,Summer,Rowing,Rowing Men's Coxed Pairs,Gold
+107,Carmine Abbagnale,MALE,26,25-30,182,90,ITA,4,6,1988,Summer,Rowing,Rowing Men's Coxed Pairs,Gold
+107,Carmine Abbagnale,MALE,30,25-30,182,90,ITA,4,6,1992,Summer,Rowing,Rowing Men's Coxed Pairs,Silver
+107,Carmine Abbagnale,MALE,34,Over 30,182,90,ITA,4,6,1996,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+108,Giuseppe Abbagnale,MALE,20,18-25,187,97,ITA,4,6,1980,Summer,Rowing,Rowing Men's Coxed Pairs,Not Registered
+108,Giuseppe Abbagnale,MALE,25,18-25,187,97,ITA,4,6,1984,Summer,Rowing,Rowing Men's Coxed Pairs,Gold
+108,Giuseppe Abbagnale,MALE,29,25-30,187,97,ITA,4,6,1988,Summer,Rowing,Rowing Men's Coxed Pairs,Gold
+108,Giuseppe Abbagnale,MALE,33,Over 30,187,97,ITA,4,6,1992,Summer,Rowing,Rowing Men's Coxed Pairs,Silver
+109,Abdul Latif Al-Sayed Abbas Youssef Hashem,MALE,23,18-25,176,64,KUW,4,6,1976,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+109,Abdul Latif Al-Sayed Abbas Youssef Hashem,MALE,23,18-25,176,64,KUW,4,6,1976,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+109,Abdul Latif Al-Sayed Abbas Youssef Hashem,MALE,27,25-30,176,64,KUW,4,6,1980,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+110,Abubakar Abbas Abbas,MALE,20,18-25,175,66,BRN,4,6,2016,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+111,Aqarab Abbas,MALE,22,18-25,190,88,PAK,4,6,1996,Summer,Athletics,Athletics Men's Hammer Throw,Not Registered
+112,Aziz Abbas,MALE,21,18-25,169,67,IRQ,4,6,1964,Summer,Weightlifting,Weightlifting Men's Lightweight,Not Registered
+113,Bassim Abbas Kati Al-Ogaili,MALE,22,18-25,175,80,IRQ,4,6,2004,Summer,Football,Football Men's Football,Not Registered
+114,Essa Abbas Faleh Hashem,MALE,20,18-25,160,65,KUW,4,6,1980,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+115,Ghulam Abbas,MALE,24,18-25,181,74,PAK,4,6,1992,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+116,Hosni Mohamed Abbas,MALE,28,25-30,NULL,60,UAR,4,6,1960,Summer,Weightlifting,Weightlifting Men's Featherweight,Not Registered
+116,Hosni Mohamed Abbas,MALE,32,Over 30,NULL,60,EGY,4,6,1964,Summer,Weightlifting,Weightlifting Men's Featherweight,Not Registered
+117,Maher Abbas,MALE,22,18-25,178,78,LIB,4,6,1988,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+117,Maher Abbas,MALE,22,18-25,178,78,LIB,4,6,1988,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+118,Mahmoud Abbas,MALE,22,18-25,165,65,EGY,4,6,2000,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+119,Mohamed Fakhry Rifaat Abbas,MALE,19,18-25,NULL,NULL,EGY,4,6,1952,Summer,Diving,Diving Men's Platform,Not Registered
+120,Mohammed Abbas Sabih,MALE,26,25-30,170,70,IRQ,4,6,2004,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+122,Nader Sufyan Abbas,MALE,28,25-30,173,77,QAT,4,6,2004,Summer,Weightlifting,Weightlifting Men's Middleweight,Not Registered
+123,Sohail Abbas,MALE,25,18-25,178,80,PAK,4,6,2000,Summer,Hockey,Hockey Men's Hockey,Not Registered
+123,Sohail Abbas,MALE,29,25-30,178,80,PAK,4,6,2004,Summer,Hockey,Hockey Men's Hockey,Not Registered
+123,Sohail Abbas,MALE,37,Over 30,178,80,PAK,4,6,2012,Summer,Hockey,Hockey Men's Hockey,Not Registered
+124,Youssef Mohamed Abbas,MALE,31,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Basketball,Basketball Men's Basketball,Not Registered
+125,Zulkifli Abbas,MALE,28,25-30,170,62,MAS,4,6,1984,Summer,Hockey,Hockey Men's Hockey,Not Registered
+127,Shakeel Abbasi,MALE,20,18-25,165,60,PAK,4,6,2004,Summer,Hockey,Hockey Men's Hockey,Not Registered
+127,Shakeel Abbasi,MALE,24,18-25,165,60,PAK,4,6,2008,Summer,Hockey,Hockey Men's Hockey,Not Registered
+127,Shakeel Abbasi,MALE,28,25-30,165,60,PAK,4,6,2012,Summer,Hockey,Hockey Men's Hockey,Not Registered
+128,Soulmaz Abbasi Azad,Female,28,25-30,173,60,IRI,4,6,2012,Summer,Rowing,Rowing Women's Single Sculls,Not Registered
+129,Ruslan Abbasov,MALE,22,18-25,181,74,AZE,4,6,2008,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+130,Tural Abbasov,MALE,18,18-25,182,76,AZE,4,6,2008,Summer,Swimming,Swimming Men's 50 metres Freestyle,Not Registered
+131,Tran Abbasova,Female,33,Over 30,159,53,AZE,4,6,2000,Summer,Weightlifting,Weightlifting Women's Featherweight,Not Registered
+132,Simona Abbate,Female,28,25-30,171,64,ITA,4,6,2012,Summer,Water Polo,Water Polo Women's Water Polo,Not Registered
+133,Franz Abb,MALE,NULL,NULL,NULL,NULL,GER,4,6,1900,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+134,Christian Abbiati,MALE,23,18-25,192,90,ITA,4,6,2000,Summer,Football,Football Men's Football,Not Registered
+135,Lois Abbingh,Female,23,18-25,178,72,NED,4,6,2016,Summer,Handball,Handball Women's Handball,Not Registered
+136,Alessandro Abbio,MALE,29,25-30,195,85,ITA,4,6,2000,Summer,Basketball,Basketball Men's Basketball,Not Registered
+138,Salwan Jasim Abbood Abbood,MALE,24,18-25,180,104,IRQ,4,6,2016,Summer,Weightlifting,Weightlifting Men's Heavyweight,Not Registered
+139,"George ""Ioannis"" Abbot",MALE,NULL,NULL,NULL,NULL,GRE,4,6,1906,Summer,Football,Football Men's Football,Bronze
+140,"William ""Bill"" Abbott Jr.",MALE,42,Over 30,172,80,CAN,4,6,1996,Summer,Sailing,Sailing Mixed Three Person Keelboat,Not Registered
+140,"William ""Bill"" Abbott Jr.",MALE,46,Over 30,172,80,CAN,4,6,2000,Summer,Sailing,Sailing Mixed Three Person Keelboat,Not Registered
+141,Clare Abbott,Female,30,25-30,167,58,IRL,4,6,2016,Summer,Equestrianism,"Equestrianism Mixed Three-Day Event, Individual",Not Registered
+141,Clare Abbott,Female,30,25-30,167,58,IRL,4,6,2016,Summer,Equestrianism,"Equestrianism Mixed Three-Day Event, Team",Not Registered
+142,"David ""Dave"" Abbott",MALE,26,25-30,183,75,USA,4,6,1928,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+143,"Desmond ""Des"" Abbott",MALE,21,18-25,184,87,AUS,4,6,2008,Summer,Hockey,Hockey Men's Hockey,Bronze
+144,Geoffrey Grant Abbott,MALE,23,18-25,179,80,RSA,4,6,2008,Summer,Hockey,Hockey Men's Hockey,Not Registered
+146,Jeremy Abbott,MALE,19,18-25,179,71,CAN,4,6,1976,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",Not Registered
+147,Joanne Abbott,Female,41,Over 30,160,57,CAN,4,6,1996,Summer,Sailing,Sailing Mixed Three Person Keelboat,Not Registered
+148,"Kathryn ""Katie"" Abbott",Female,21,18-25,164,63,CAN,4,6,2008,Summer,Sailing,Sailing Women's Three Person Keelboat,Not Registered
+149,Mara Katherine Abbott,Female,30,25-30,163,52,USA,4,6,2016,Summer,Cycling,"Cycling Women's Road Race, Individual",Not Registered
+150,Margaret Ives Abbott (-Dunne),Female,23,18-25,NULL,NULL,USA,4,6,1900,Summer,Golf,Golf Women's Individual,Gold
+151,Mary Perkins Ives Abbott (Perkins-),Female,42,Over 30,NULL,NULL,USA,4,6,1900,Summer,Golf,Golf Women's Individual,Not Registered
+152,Matt Abbott,MALE,34,Over 30,185,91,CAN,4,6,2000,Summer,Sailing,Sailing Mixed Three Person Keelboat,Not Registered
+153,Monica Cecilia Abbott,Female,23,18-25,191,88,USA,4,6,2008,Summer,Softball,Softball Women's Softball,Silver
+154,Khadija Abbouda,Female,40,Over 30,165,57,MAR,4,6,2008,Summer,Archery,Archery Women's Individual,Not Registered
+155,Mohamed Ibrahim Abd El-Fatah Mohamed,MALE,22,18-25,185,98,EGY,4,6,2000,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Not Registered
+155,Mohamed Ibrahim Abd El-Fatah Mohamed,MALE,26,25-30,185,98,EGY,4,6,2004,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Not Registered
+155,Mohamed Ibrahim Abd El-Fatah Mohamed,MALE,34,Over 30,185,98,EGY,4,6,2012,Summer,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",Not Registered
+156,Mahmoud Abd El-Kader,MALE,23,18-25,195,94,EGY,4,6,2008,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+157,Mohamed Ibrahim Abd El-Salam,MALE,22,18-25,192,83,EGY,4,6,2004,Summer,Handball,Handball Men's Handball,Not Registered
+157,Mohamed Ibrahim Abd El-Salam,MALE,26,25-30,192,83,EGY,4,6,2008,Summer,Handball,Handball Men's Handball,Not Registered
+158,Noha Abd Rabo,Female,21,18-25,NULL,NULL,EGY,4,6,2008,Summer,Taekwondo,Taekwondo Women's Heavyweight,Not Registered
+159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,Female,15,Under 18,167,60,EGY,4,6,2008,Summer,Synchronized Swimming,Synchronized Swimming Women's Duet,Not Registered
+159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,Female,15,Under 18,167,60,EGY,4,6,2008,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,Not Registered
+159,Reem Wa'il Abdalazem Abdalazem El-Bossaty,Female,19,18-25,167,60,EGY,4,6,2012,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,Not Registered
+160,Ali Abdalla Afringi,MALE,25,18-25,163,57,ERI,4,6,2008,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+161,Hossam Abdalla,MALE,28,25-30,203,97,EGY,4,6,2016,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+162,Hosam Abdallah,MALE,25,18-25,NULL,NULL,EGY,4,6,1992,Summer,Handball,Handball Men's Handball,Not Registered
+162,Hosam Abdallah,MALE,29,25-30,NULL,NULL,EGY,4,6,1996,Summer,Handball,Handball Men's Handball,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Team All-Around,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Horse Vault,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+163,Ismail Abdallah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+164,Maged Abdallah,MALE,22,18-25,NULL,NULL,EGY,4,6,1992,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+165,Nia Nicole Abdallah,Female,20,18-25,175,56,USA,4,6,2004,Summer,Taekwondo,Taekwondo Women's Featherweight,Silver
+166,Omari Abdallah,MALE,21,18-25,168,57,TAN,4,6,1964,Summer,Athletics,Athletics Men's Marathon,Not Registered
+166,Omari Abdallah,MALE,29,25-30,168,57,TAN,4,6,1972,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+167,Ould Lamine Abdallah,MALE,NULL,NULL,NULL,NULL,FRA,4,6,1952,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+168,Younis Abdallah Rabee,MALE,23,18-25,169,68,KUW,4,6,1972,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+169,Raida Abdallah Bader,Female,19,18-25,158,49,JOR,4,6,1984,Summer,Athletics,"Athletics Women's 3,000 metres",Not Registered
+170,Maha Abdalsalam Gouda,Female,18,18-25,172,61,EGY,4,6,2016,Summer,Diving,Diving Women's Platform,Not Registered
+171,Mahmoud Abdel Aziz,MALE,25,18-25,174,70,EGY,4,6,2000,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+172,Mohamed Abdel Ellah,MALE,32,Over 30,168,68,EGY,4,6,2000,Summer,Shooting,"Shooting Men's Air Rifle, 10 metres",Not Registered
+173,Mohamed Abdel Fatah,MALE,NULL,NULL,170,69,SUD,4,6,1972,Summer,Football,Football Men's Football,Not Registered
+174,Ali Mohamed Badawi Abdel Fattah Badawi,MALE,19,18-25,NULL,NULL,UAR,4,6,1960,Summer,Football,Football Men's Football,Not Registered
+175,Abdelgani Hassan Abdel Fattah,MALE,31,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Athletics,Athletics Men's Marathon,Not Registered
+176,Mahmoud Atter Abdel Fattah,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+177,Mohamed Abdel Fattah,MALE,23,18-25,174,69,EGY,4,6,2000,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+178,Sayed Abdel Gadir,MALE,23,18-25,180,56,SUD,4,6,1960,Summer,Boxing,Boxing Men's Featherweight,Not Registered
+178,Sayed Abdel Gadir,MALE,32,Over 30,180,56,SUD,4,6,1968,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+179,Ibrahim Saad Abdel Galil,MALE,NULL,NULL,176,73,SUD,4,6,1972,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+179,Ibrahim Saad Abdel Galil,MALE,NULL,NULL,176,73,SUD,4,6,1972,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+180,Heba Abdel Gawad,Female,18,18-25,154,48,EGY,4,6,2000,Summer,Synchronized Swimming,Synchronized Swimming Women's Duet,Not Registered
+180,Heba Abdel Gawad,Female,22,18-25,154,48,EGY,4,6,2004,Summer,Synchronized Swimming,Synchronized Swimming Women's Duet,Not Registered
+181,Sara Abdel Gawad,Female,18,18-25,153,46,EGY,4,6,2000,Summer,Synchronized Swimming,Synchronized Swimming Women's Duet,Not Registered
+182,Gamal Amin Abdel Ghani,MALE,29,25-30,NULL,NULL,EGY,4,6,1992,Summer,Hockey,Hockey Men's Hockey,Not Registered
+183,Abdel Sattar Abdel Hadj,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+184,Ragy Abdel Hady,MALE,30,25-30,186,100,EGY,4,6,2004,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+185,Osman Abdel Hafeez,MALE,31,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+185,Osman Abdel Hafeez,MALE,31,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+185,Osman Abdel Hafeez,MALE,31,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+185,Osman Abdel Hafeez,MALE,35,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+185,Osman Abdel Hafeez,MALE,35,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+186,Mohamed Abdel Hafiz,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+187,Moustafa Ali Abdel Halim,MALE,32,Over 30,152,52,EGY,4,6,1976,Summer,Weightlifting,Weightlifting Men's Flyweight,Not Registered
+188,Mohamed Abdel Hamed,MALE,24,18-25,193,82,EGY,4,6,1984,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+189,Hwad Ibrahim Abdel Hamid Lumomba,MALE,NULL,NULL,162,57,SUD,4,6,1968,Summer,Boxing,Boxing Men's Featherweight,Not Registered
+190,Ibrahim Abdel Hamid,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",Not Registered
+191,Tamer Mohamed Abdel Hamid,MALE,20,18-25,NULL,NULL,EGY,4,6,1992,Summer,Football,Football Men's Football,Not Registered
+192,Ahmed El-Sayed Abdel Hamid Mobarak,MALE,25,18-25,189,85,EGY,4,6,1972,Summer,Basketball,Basketball Men's Basketball,Not Registered
+193,Dorri Abdel Kader Said,MALE,21,18-25,NULL,NULL,EGY,4,6,1948,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+193,Dorri Abdel Kader Said,MALE,21,18-25,NULL,NULL,EGY,4,6,1948,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+193,Dorri Abdel Kader Said,MALE,21,18-25,NULL,NULL,EGY,4,6,1948,Summer,Swimming,Swimming Men's 100 metres Backstroke,Not Registered
+193,Dorri Abdel Kader Said,MALE,25,18-25,NULL,NULL,EGY,4,6,1952,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+193,Dorri Abdel Kader Said,MALE,25,18-25,NULL,NULL,EGY,4,6,1952,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+193,Dorri Abdel Kader Said,MALE,33,Over 30,NULL,NULL,UAR,4,6,1960,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+194,Moustafa Mounib Abdel Kader,MALE,NULL,NULL,176,67,UAR,4,6,1960,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+195,Mohamed Ali Abdel Kerim,MALE,24,18-25,NULL,81,EGY,4,6,1952,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,Not Registered
+195,Mohamed Ali Abdel Kerim,MALE,32,Over 30,NULL,81,UAR,4,6,1960,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,Not Registered
+196,Mohamed Abdel Khaled,MALE,24,18-25,183,76,TUN,4,6,1976,Summer,Handball,Handball Men's Handball,Not Registered
+197,Abdel Latif Abdel Latif,MALE,28,25-30,172,68,EGY,4,6,1988,Summer,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",Not Registered
+198,Walid Abdel Maksoud,MALE,29,25-30,NULL,NULL,EGY,4,6,2008,Summer,Handball,Handball Men's Handball,Not Registered
+199,Amir Abdel Meguid,MALE,23,18-25,178,67,EGY,4,6,1984,Summer,Basketball,Basketball Men's Basketball,Not Registered
+199,Amir Abdel Meguid,MALE,27,25-30,178,67,EGY,4,6,1988,Summer,Basketball,Basketball Men's Basketball,Not Registered
+200,Mohamed Abdel Mohamed,MALE,24,18-25,NULL,NULL,EGY,4,6,1992,Summer,Handball,Handball Men's Handball,Not Registered
+201,Karim Abdel Mohsen,MALE,25,18-25,188,92,EGY,4,6,2004,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+202,Awad Abdel Nabi Awad,MALE,19,18-25,198,80,EGY,4,6,1972,Summer,Basketball,Basketball Men's Basketball,Not Registered
+202,Awad Abdel Nabi Awad,MALE,23,18-25,198,80,EGY,4,6,1976,Summer,Basketball,Basketball Men's Basketball,Not Registered
+203,Ahmed Abdel Naeim,MALE,23,18-25,197,87,EGY,4,6,2008,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+203,Ahmed Abdel Naeim,MALE,31,Over 30,197,87,EGY,4,6,2016,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+204,Moustafa Abdel Naser,MALE,21,18-25,176,74,LBA,4,6,1996,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+205,Ali Abdel Radi,MALE,24,18-25,NULL,NULL,EGY,4,6,1964,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+206,Amin Abdel Rahman,MALE,18,18-25,NULL,NULL,UAR,4,6,1960,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+206,Amin Abdel Rahman,MALE,22,18-25,NULL,NULL,EGY,4,6,1964,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+207,Mohamed Fathallah Abdel Rahman,MALE,21,18-25,NULL,NULL,EGY,4,6,1936,Summer,Fencing,"Fencing Men's Sabre, Individual",Not Registered
+207,Mohamed Fathallah Abdel Rahman,MALE,33,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+207,Mohamed Fathallah Abdel Rahman,MALE,33,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+207,Mohamed Fathallah Abdel Rahman,MALE,37,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+207,Mohamed Fathallah Abdel Rahman,MALE,37,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+207,Mohamed Fathallah Abdel Rahman,MALE,37,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's Sabre, Individual",Not Registered
+207,Mohamed Fathallah Abdel Rahman,MALE,37,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's Sabre, Team",Not Registered
+208,Fathi Ali Abdel Rahman,MALE,20,18-25,NULL,NULL,EGY,4,6,1952,Summer,Boxing,Boxing Men's Welterweight,Not Registered
+209,Ibrahim Abdel Rahman,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+210,Khaled Abdel Rahman,MALE,27,25-30,188,79,EGY,4,6,1984,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+211,Sameh Abdel Rahman,MALE,16,Under 18,NULL,NULL,UAR,4,6,1960,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+211,Sameh Abdel Rahman,MALE,21,18-25,NULL,NULL,EGY,4,6,1964,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+211,Sameh Abdel Rahman,MALE,21,18-25,NULL,NULL,EGY,4,6,1964,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+212,Yasser Abdel Rahman Sakr,MALE,30,25-30,180,120,EGY,4,6,2008,Summer,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Not Registered
+213,Samy Abdel Razek,MALE,28,25-30,170,60,EGY,4,6,2008,Summer,Shooting,"Shooting Men's Free Pistol, 50 metres",Not Registered
+213,Samy Abdel Razek,MALE,36,Over 30,170,60,EGY,4,6,2016,Summer,Shooting,"Shooting Men's Air Pistol, 10 metres",Not Registered
+213,Samy Abdel Razek,MALE,36,Over 30,170,60,EGY,4,6,2016,Summer,Shooting,"Shooting Men's Free Pistol, 50 metres",Not Registered
+214,Mohamed Youssef Abdel Razik,MALE,21,18-25,NULL,NULL,EGY,4,6,1992,Summer,Football,Football Men's Football,Not Registered
+215,Ibrahim Ahmed Abdel Rehim,MALE,21,18-25,190,83,EGY,4,6,2004,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+216,Kamal Abdel Rehim,MALE,26,25-30,190,95,EGY,4,6,2000,Summer,Rowing,Rowing Men's Coxless Fours,Not Registered
+217,Reskalla Mohamed Abdel Rehim,MALE,22,18-25,165,48,EGY,4,6,2000,Summer,Boxing,Boxing Men's Light-Flyweight,Not Registered
+218,Ahmed Ali Abdel Samad,MALE,27,25-30,195,95,EGY,4,6,2000,Summer,Boxing,Boxing Men's Super-Heavyweight,Not Registered
+219,Ali Abdel Sami,MALE,28,25-30,NULL,NULL,EGY,4,6,1964,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+220,Mohamed Abdel Sami,MALE,NULL,NULL,NULL,NULL,UAR,4,6,1960,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+221,Sameh Abdel Waress Muhammad,MALE,24,18-25,NULL,NULL,EGY,4,6,1996,Summer,Handball,Handball Men's Handball,Not Registered
+222,Mohamed Said Abdel Wehab,MALE,22,18-25,157,48,EGY,4,6,1976,Summer,Boxing,Boxing Men's Light-Flyweight,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Team All-Around,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Horse Vault,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+223,Mahmoud Abdel-Aal,MALE,19,18-25,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+224,Mohamed Abdel-El,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",Not Registered
+225,Shaimaa Abdel-Latif-Hashad,Female,23,18-25,165,57,EGY,4,6,2004,Summer,Shooting,"Shooting Women's Air Rifle, 10 metres",Not Registered
+225,Shaimaa Abdel-Latif-Hashad,Female,27,25-30,165,57,EGY,4,6,2008,Summer,Shooting,"Shooting Women's Air Rifle, 10 metres",Not Registered
+225,Shaimaa Abdel-Latif-Hashad,Female,35,Over 30,165,57,EGY,4,6,2016,Summer,Shooting,"Shooting Women's Air Rifle, 10 metres",Not Registered
+226,Sanad Bushara Abdel-Nadif,MALE,NULL,NULL,NULL,NULL,SUD,4,6,1972,Summer,Football,Football Men's Football,Not Registered
+227,Ahmed Abdelaal,MALE,27,25-30,188,89,EGY,4,6,2016,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+228,Mahmoud Abdelaal,MALE,24,18-25,176,60,EGY,4,6,2016,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+229,Mohamed Ali Abdelaal,MALE,26,25-30,175,81,EGY,4,6,2016,Summer,Judo,Judo Men's Half-Middleweight,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Team All-Around,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Horse Vault,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+230,Moustafa Abdelal,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1948,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+231,Mahmod Abdelaly,MALE,41,Over 30,NULL,NULL,EGY,4,6,2008,Summer,Shooting,"Shooting Men's Air Pistol, 10 metres",Not Registered
+232,Ibrahim Ramadan Ibrahim Abdelbaki,MALE,24,18-25,173,77,EGY,4,6,2012,Summer,Weightlifting,Weightlifting Men's Middleweight,Not Registered
+232,Ibrahim Ramadan Ibrahim Abdelbaki,MALE,28,25-30,173,77,EGY,4,6,2016,Summer,Weightlifting,Weightlifting Men's Middleweight,Not Registered
+233,Aziza Abdelfattah,Female,17,Under 18,159,51,EGY,4,6,2008,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,Not Registered
+234,Abdalla Abdelgadir El-Sheikh,MALE,21,18-25,170,58,SUD,4,6,2008,Summer,Athletics,"Athletics Men's 1,500 metres",Not Registered
+235,Magdi Abdelghani Sayed Ahmed,MALE,25,18-25,NULL,NULL,EGY,4,6,1984,Summer,Football,Football Men's Football,Not Registered
+236,Ragab Abdelhay Saad Abdelrazek Abdallah,MALE,21,18-25,170,94,EGY,4,6,2012,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,Not Registered
+236,Ragab Abdelhay Saad Abdelrazek Abdallah,MALE,25,18-25,170,94,EGY,4,6,2016,Summer,Weightlifting,Weightlifting Men's Middle-Heavyweight,Not Registered
+237,Ben Ahmed Abdelkrim,MALE,20,18-25,NULL,NULL,FRA,4,6,1952,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+238,Mohamed Abdellah,MALE,36,Over 30,170,70,EGY,4,6,2004,Summer,Shooting,"Shooting Men's Air Rifle, 10 metres",Not Registered
+238,Mohamed Abdellah,MALE,40,Over 30,170,70,EGY,4,6,2008,Summer,Shooting,"Shooting Men's Air Rifle, 10 metres",Not Registered
+239,Ayoub Abdellaoui,MALE,23,18-25,184,68,ALG,4,6,2016,Summer,Football,Football Men's Football,Not Registered
+240,Leila Abdelmoez,Female,19,18-25,160,46,EGY,4,6,2016,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,Not Registered
+241,Sayed Abdelmonem Sayed Hamed,MALE,23,18-25,170,60,EGY,4,6,2012,Summer,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",Not Registered
+242,Ahmed Abdelrahman,MALE,20,18-25,165,60,EGY,4,6,2016,Summer,Judo,Judo Men's Extra-Lightweight,Not Registered
+243,Ihab Abdelrahman El-Sayed Abdelrahman,MALE,23,18-25,194,96,EGY,4,6,2012,Summer,Athletics,Athletics Men's Javelin Throw,Not Registered
+244,Raouf Abdelraouf,MALE,22,18-25,167,63,EGY,4,6,2000,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+244,Raouf Abdelraouf,MALE,22,18-25,167,63,EGY,4,6,2000,Summer,Gymnastics,Gymnastics Men's Horse Vault,Not Registered
+244,Raouf Abdelraouf,MALE,22,18-25,167,63,EGY,4,6,2000,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+244,Raouf Abdelraouf,MALE,22,18-25,167,63,EGY,4,6,2000,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+244,Raouf Abdelraouf,MALE,22,18-25,167,63,EGY,4,6,2000,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+245,Abouelfetoh Abdelrazek,MALE,21,18-25,NULL,NULL,EGY,4,6,2008,Summer,Handball,Handball Men's Handball,Not Registered
+246,Mamdouh Abdelrehim,MALE,26,25-30,207,90,EGY,4,6,2016,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+247,El-Hachemi Abdenouz,MALE,24,18-25,170,63,ALG,4,6,1980,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+248,Rda Abdenouz,MALE,19,18-25,170,63,ALG,4,6,1988,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+248,Rda Abdenouz,MALE,23,18-25,170,63,ALG,4,6,1992,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+249,Mouni Abderrahim,Female,22,18-25,173,60,ALG,4,6,2008,Summer,Volleyball,Volleyball Women's Volleyball,Not Registered
+249,Mouni Abderrahim,Female,26,25-30,173,60,ALG,4,6,2012,Summer,Volleyball,Volleyball Women's Volleyball,Not Registered
+250,Saeid Morad Abdevali,MALE,22,18-25,170,80,IRI,4,6,2012,Summer,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",Not Registered
+250,Saeid Morad Abdevali,MALE,26,25-30,170,80,IRI,4,6,2016,Summer,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Bronze
+251,Bashir Abdi,MALE,27,25-30,176,56,BEL,4,6,2016,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+251,Bashir Abdi,MALE,27,25-30,176,56,BEL,4,6,2016,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+252,Youcef Abdi,MALE,30,25-30,178,66,AUS,4,6,2008,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",Not Registered
+252,Youcef Abdi,MALE,34,Over 30,178,66,AUS,4,6,2012,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",Not Registered
+253,Jamal Abdi Hassan Abdullah,MALE,19,18-25,177,65,QAT,4,6,1992,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",Not Registered
+253,Jamal Abdi Hassan Abdullah,MALE,23,18-25,177,65,QAT,4,6,1996,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",Not Registered
+254,Talal Omar Abdillahi,MALE,21,18-25,170,57,DJI,4,6,1988,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+254,Talal Omar Abdillahi,MALE,25,18-25,170,57,DJI,4,6,1992,Summer,Athletics,Athletics Men's Marathon,Not Registered
+255,Mahmoud Ahmed Abdin,MALE,21,18-25,NULL,NULL,EGY,4,6,1928,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+255,Mahmoud Ahmed Abdin,MALE,21,18-25,NULL,NULL,EGY,4,6,1928,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+255,Mahmoud Ahmed Abdin,MALE,29,25-30,NULL,NULL,EGY,4,6,1936,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+255,Mahmoud Ahmed Abdin,MALE,29,25-30,NULL,NULL,EGY,4,6,1936,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+255,Mahmoud Ahmed Abdin,MALE,29,25-30,NULL,NULL,EGY,4,6,1936,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+255,Mahmoud Ahmed Abdin,MALE,29,25-30,NULL,NULL,EGY,4,6,1936,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+255,Mahmoud Ahmed Abdin,MALE,41,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+256,"Abdihakim ""Abdi"" Abdirahman",MALE,23,18-25,178,61,USA,4,6,2000,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+256,"Abdihakim ""Abdi"" Abdirahman",MALE,27,25-30,178,61,USA,4,6,2004,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+256,"Abdihakim ""Abdi"" Abdirahman",MALE,31,Over 30,178,61,USA,4,6,2008,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+256,"Abdihakim ""Abdi"" Abdirahman",MALE,35,Over 30,178,61,USA,4,6,2012,Summer,Athletics,Athletics Men's Marathon,Not Registered
+257,Ali Abdo,MALE,19,18-25,169,74,AUS,4,6,2000,Summer,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",Not Registered
+257,Ali Abdo,MALE,23,18-25,169,74,AUS,4,6,2004,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",Not Registered
+257,Ali Abdo,MALE,27,25-30,169,74,AUS,4,6,2008,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",Not Registered
+258,Hamza Abdo,MALE,17,Under 18,NULL,NULL,PLE,4,6,2008,Summer,Swimming,Swimming Men's 50 metres Freestyle,Not Registered
+259,Reema Abdo,Female,21,18-25,173,59,CAN,4,6,1984,Summer,Swimming,Swimming Women's 100 metres Backstroke,Not Registered
+259,Reema Abdo,Female,21,18-25,173,59,CAN,4,6,1984,Summer,Swimming,Swimming Women's 200 metres Backstroke,Not Registered
+259,Reema Abdo,Female,21,18-25,173,59,CAN,4,6,1984,Summer,Swimming,Swimming Women's 4 x 100 metres Medley Relay,Bronze
+260,Ahmed Abdo Mustafa,MALE,NULL,NULL,NULL,NULL,SUD,4,6,1972,Summer,Football,Football Men's Football,Not Registered
+261,Nasrollah Abdollahi,MALE,24,18-25,183,75,IRI,4,6,1976,Summer,Football,Football Men's Football,Not Registered
+262,Yhyacinthe Mewoli Abdon,MALE,26,25-30,176,60,CMR,4,6,2012,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+263,Hassane Abdou,MALE,23,18-25,185,67,COM,4,6,1996,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+264,Justin Abdou,MALE,29,25-30,175,85,CAN,4,6,2000,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Not Registered
+265,Moustafa Ahmed Ismail Abdou Ali Arfah,MALE,31,Over 30,NULL,NULL,EGY,4,6,1984,Summer,Football,Football Men's Football,Not Registered
+266,Raouf Abdou,MALE,22,18-25,165,60,EGY,4,6,2004,Summer,Modern Pentathlon,Modern Pentathlon Men's Individual,Not Registered
+267,Mohamed Abdou El-Souad,MALE,19,18-25,180,76,EGY,4,6,1988,Summer,Modern Pentathlon,Modern Pentathlon Men's Individual,Not Registered
+267,Mohamed Abdou El-Souad,MALE,19,18-25,180,76,EGY,4,6,1988,Summer,Modern Pentathlon,Modern Pentathlon Men's Team,Not Registered
+267,Mohamed Abdou El-Souad,MALE,23,18-25,180,76,EGY,4,6,1992,Summer,Modern Pentathlon,Modern Pentathlon Men's Individual,Not Registered
+267,Mohamed Abdou El-Souad,MALE,23,18-25,180,76,EGY,4,6,1992,Summer,Modern Pentathlon,Modern Pentathlon Men's Team,Not Registered
+268,Brahim Daoud Abdoulaye,MALE,25,18-25,NULL,71,CHA,4,6,1996,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+269,Fawziya Abdoulkarim,Female,27,25-30,180,67,CMR,4,6,2016,Summer,Volleyball,Volleyball Women's Volleyball,Not Registered
+270,Alaa El-Din Abdoun,MALE,23,18-25,188,78,EGY,4,6,1988,Summer,Basketball,Basketball Men's Basketball,Not Registered
+271,Ibrahim Abdrabbou,MALE,27,25-30,NULL,NULL,EGY,4,6,1952,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+272,Berik Abdrakhmanov,MALE,30,25-30,165,60,KAZ,4,6,2016,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+273,Maizurah Abdul Rahim,Female,17,Under 18,147,50,BRU,4,6,2016,Summer,Athletics,Athletics Women's 200 metres,Not Registered
+274,Mehdi Fahim Abdul Al-Sada,MALE,24,18-25,184,70,IRQ,4,6,1980,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+275,Bashir Abdullah Abdul Aziz,MALE,22,18-25,180,73,KUW,4,6,2000,Summer,Football,Football Men's Football,Not Registered
+276,Chairil Anwar Abdul Aziz,MALE,24,18-25,163,61,MAS,4,6,1996,Summer,Hockey,Hockey Men's Hockey,Not Registered
+276,Chairil Anwar Abdul Aziz,MALE,28,25-30,163,61,MAS,4,6,2000,Summer,Hockey,Hockey Men's Hockey,Not Registered
+277,Shaimaa Abdul Aziz,Female,19,18-25,160,53,EGY,4,6,2000,Summer,Table Tennis,Table Tennis Women's Singles,Not Registered
+277,Shaimaa Abdul Aziz,Female,19,18-25,160,53,EGY,4,6,2000,Summer,Table Tennis,Table Tennis Women's Doubles,Not Registered
+277,Shaimaa Abdul Aziz,Female,27,25-30,160,53,EGY,4,6,2008,Summer,Table Tennis,Table Tennis Women's Singles,Not Registered
+278,Mohamed Abdul Hadj,MALE,25,18-25,NULL,NULL,MAS,4,6,1992,Summer,Hockey,Hockey Men's Hockey,Not Registered
+279,Jefri Kiko Bolkiah Abdul Hakeem,MALE,23,18-25,172,90,BRU,4,6,1996,Summer,Shooting,Shooting Men's Skeet,Not Registered
+279,Jefri Kiko Bolkiah Abdul Hakeem,MALE,27,25-30,172,90,BRU,4,6,2000,Summer,Shooting,Shooting Men's Skeet,Not Registered
+280,Mohamed Abdul Hamid,MALE,19,18-25,175,55,SUD,4,6,2000,Summer,Swimming,Swimming Men's 50 metres Freestyle,Not Registered
+281,S. Abdul Hamid,MALE,NULL,NULL,NULL,NULL,IND,4,6,1928,Summer,Athletics,Athletics Men's 110 metres Hurdles,Not Registered
+281,S. Abdul Hamid,MALE,NULL,NULL,NULL,NULL,IND,4,6,1928,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+282,Hadi Abdul Jabbar,MALE,30,25-30,180,117.5,IRQ,4,6,1960,Summer,Weightlifting,Weightlifting Men's Heavyweight,Not Registered
+282,Hadi Abdul Jabbar,MALE,34,Over 30,180,117.5,IRQ,4,6,1964,Summer,Weightlifting,Weightlifting Men's Heavyweight,Not Registered
+283,Mohamed Abed Abdul Jawad,MALE,22,18-25,169,65,KSA,4,6,1984,Summer,Football,Football Men's Football,Not Registered
+284,Anouar Abdul Kader,MALE,27,25-30,NULL,NULL,SYR,4,6,1980,Summer,Football,Football Men's Football,Not Registered
+285,Talal Hassoun Abdul Kader,MALE,NULL,NULL,NULL,82,IRQ,4,6,1980,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,Not Registered
+286,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,MALE,23,18-25,169,60,KUW,4,6,1976,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+286,Abdul Aziz Hassan Al-Hadba Abdul Karim Abdul Kareem,MALE,23,18-25,169,60,KUW,4,6,1976,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+287,Taha Abdul Karim,MALE,20,18-25,156,59,IRQ,4,6,1960,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+288,Masoud Abdul Khamis Al-Rahman,MALE,17,Under 18,176,68,QAT,4,6,1992,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+289,Abdul Haji Abdul Latheef,MALE,17,Under 18,168,54,MDV,4,6,1988,Summer,Athletics,Athletics Men's Marathon,Not Registered
+290,Fatima Abdul Majeed Hameed Al-Kirashi,Female,14,Under 18,NULL,NULL,BRN,4,6,2000,Summer,Swimming,Swimming Women's 50 metres Freestyle,Not Registered
+291,Majed Ahmed Abdul Mohamed,MALE,26,25-30,172,70,KSA,4,6,1984,Summer,Football,Football Men's Football,Not Registered
+292,Firouz Abdul Mohammadian,MALE,34,Over 30,178,74,IRI,4,6,1976,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+293,Hussam Abdul Rahman,MALE,30,25-30,175,80,JOR,4,6,1984,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Not Registered
+294,Mohamed Ghulom Abdul Rahman,MALE,NULL,NULL,175,85,BRN,4,6,1984,Summer,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Not Registered
+295,Suleman Abdul Rahman,MALE,29,25-30,174,55,ETH,4,6,1972,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+296,Zambrose Abdul Rahman,MALE,24,18-25,173,64,MAS,4,6,1968,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+297,Lala Abdul Rashid,MALE,38,Over 30,169,91,PAK,4,6,1960,Summer,Hockey,Hockey Men's Hockey,Gold
+298,Muhammad Abdul Rashid,MALE,23,18-25,181,72,PAK,4,6,1964,Summer,Hockey,Hockey Men's Hockey,Silver
+299,Dana Abdul Razak (Hussain-),Female,22,18-25,163,56,IRQ,4,6,2008,Summer,Athletics,Athletics Women's 100 metres,Not Registered
+299,Dana Abdul Razak (Hussain-),Female,26,25-30,163,56,IRQ,4,6,2012,Summer,Athletics,Athletics Women's 100 metres,Not Registered
+300,A. Abdul Razzak,MALE,NULL,NULL,178,70,IRQ,4,6,1960,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+300,A. Abdul Razzak,MALE,NULL,NULL,178,70,IRQ,4,6,1960,Summer,Athletics,Athletics Men's Triple Jump,Not Registered
+301,Mohamed Abdul Razzak,MALE,NULL,NULL,177,68,IRQ,4,6,1960,Summer,Athletics,Athletics Men's High Jump,Not Registered
+302,Muhammad Abdul Razzaq,MALE,NULL,NULL,NULL,NULL,PAK,4,6,1948,Summer,Hockey,Hockey Men's Hockey,Not Registered
+303,Hazim Abdul Ridha,MALE,NULL,NULL,160,52,IRQ,4,6,1980,Summer,Wrestling,"Wrestling Men's Flyweight, Greco-Roman",Not Registered
+304,Rauf Abdul Seoud,MALE,21,18-25,NULL,NULL,EGY,4,6,1936,Summer,Diving,Diving Men's Platform,Not Registered
+304,Rauf Abdul Seoud,MALE,33,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Diving,Diving Men's Platform,Not Registered
+305,Samir Ahmed Abdul Shakour,MALE,24,18-25,180,72,KSA,4,6,1984,Summer,Football,Football Men's Football,Not Registered
+306,Nabil Abdul Tahlak,MALE,39,Over 30,NULL,NULL,UAE,4,6,1996,Summer,Shooting,"Shooting Men's Air Rifle, 10 metres",Not Registered
+307,Fahmi Ahmed Abdul Wahab Al-Tahri,MALE,23,18-25,NULL,NULL,YAR,4,6,1988,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+308,Mohamed Abdul Wahab Al-Salah,MALE,21,18-25,NULL,NULL,KUW,4,6,1980,Summer,Swimming,Swimming Men's 400 metres Freestyle,Not Registered
+308,Mohamed Abdul Wahab Al-Salah,MALE,21,18-25,NULL,NULL,KUW,4,6,1980,Summer,Swimming,Swimming Men's 100 metres Butterfly,Not Registered
+309,Qazi Abdul Waheed,MALE,30,25-30,NULL,NULL,PAK,4,6,1952,Summer,Hockey,Hockey Men's Hockey,Not Registered
+310,Patmawati Abdul Wahid,Female,32,Over 30,158,58,INA,4,6,2004,Summer,Weightlifting,Weightlifting Women's Lightweight,Not Registered
+311,Haidar Abdul-Amir Hassan,MALE,21,18-25,185,80,IRQ,4,6,2004,Summer,Football,Football Men's Football,Not Registered
+312,Haidar Abdul-Razzaq Hassan,MALE,22,18-25,175,75,IRQ,4,6,2004,Summer,Football,Football Men's Football,Not Registered
+313,"Lawal Kolawole ""Kola"" Abdulai",MALE,21,18-25,172,66,NGR,4,6,1968,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+313,"Lawal Kolawole ""Kola"" Abdulai",MALE,21,18-25,172,66,NGR,4,6,1968,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+313,"Lawal Kolawole ""Kola"" Abdulai",MALE,25,18-25,172,66,NGR,4,6,1972,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+313,"Lawal Kolawole ""Kola"" Abdulai",MALE,25,18-25,172,66,NGR,4,6,1972,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+314,"Rukayatu ""Ruky"" Abdulai",Female,22,18-25,180,59,CAN,4,6,2008,Summer,Athletics,Athletics Women's Long Jump,Not Registered
+315,Mona Ahmad Abdulaziz Hassanein,Female,26,25-30,166,61,EGY,4,6,2012,Summer,Fencing,"Fencing Women's epee, Individual",Not Registered
+316,Zagalav Abdulbekovich Abdulbekov,MALE,26,25-30,160,62,URS,4,6,1972,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",Gold
+317,Roosevelt M. Abdulgafur,MALE,24,18-25,181,73,PHI,4,6,1968,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+317,Roosevelt M. Abdulgafur,MALE,24,18-25,181,73,PHI,4,6,1968,Summer,Swimming,Swimming Men's 200 metres Freestyle,Not Registered
+317,Roosevelt M. Abdulgafur,MALE,24,18-25,181,73,PHI,4,6,1968,Summer,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Not Registered
+317,Roosevelt M. Abdulgafur,MALE,24,18-25,181,73,PHI,4,6,1968,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Not Registered
+317,Roosevelt M. Abdulgafur,MALE,24,18-25,181,73,PHI,4,6,1968,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
+318,Ahmed Abdulkareem Ahmed,MALE,20,18-25,NULL,NULL,IRQ,4,6,2012,Summer,Boxing,Boxing Men's Welterweight,Not Registered
+319,Gamal Ahmed Abdulla,MALE,28,25-30,NULL,NULL,EGY,4,6,1992,Summer,Hockey,Hockey Men's Hockey,Not Registered
+320,Mohamed Sayed Abdulla,MALE,18,18-25,NULL,NULL,EGY,4,6,1992,Summer,Hockey,Hockey Men's Hockey,Not Registered
+321,Ahmad Hassan Abdullah,MALE,27,25-30,164,55,QAT,4,6,2008,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+322,Ahmed Ghanim Abdullah,MALE,20,18-25,184,79,EGY,4,6,1988,Summer,Swimming,Swimming Men's 200 metres Butterfly,Not Registered
+323,Aquil Hashim Abdullah (Shumate-),MALE,31,Over 30,187,83,USA,4,6,2004,Summer,Rowing,Rowing Men's Double Sculls,Not Registered
+324,Atallah Abdullah,MALE,32,Over 30,NULL,88,IRQ,4,6,1992,Summer,Weightlifting,Weightlifting Men's Middle-Heavyweight,Not Registered
+325,Magdy Ahmed Abdullah,MALE,25,18-25,NULL,NULL,EGY,4,6,1992,Summer,Hockey,Hockey Men's Hockey,Not Registered
+326,Mohamed Abdullah,MALE,NULL,NULL,176,66,UAE,4,6,1988,Summer,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Not Registered
+326,Mohamed Abdullah,MALE,NULL,NULL,176,66,UAE,4,6,1988,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Not Registered
+326,Mohamed Abdullah,MALE,NULL,NULL,176,66,UAE,4,6,1988,Summer,Swimming,Swimming Men's 100 metres Backstroke,Not Registered
+326,Mohamed Abdullah,MALE,NULL,NULL,176,66,UAE,4,6,1988,Summer,Swimming,Swimming Men's 200 metres Backstroke,Not Registered
+326,Mohamed Abdullah,MALE,NULL,NULL,176,66,UAE,4,6,1988,Summer,Swimming,Swimming Men's 200 metres Individual Medley,Not Registered
+326,Mohamed Abdullah,MALE,NULL,NULL,176,66,UAE,4,6,1988,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
+327,Mohamed Samy Abdullah,MALE,NULL,NULL,165,65,UAE,4,6,1984,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+328,Mohamed Abdullah,MALE,NULL,NULL,180,76,IRQ,4,6,1960,Summer,Athletics,Athletics Men's Pole Vault,Not Registered
+329,Osama Abdullah,MALE,21,18-25,NULL,NULL,KUW,4,6,1992,Summer,Football,Football Men's Football,Not Registered
+330,Tewfik Abdullah,MALE,23,18-25,NULL,NULL,EGY,4,6,1920,Summer,Football,Football Men's Football,Not Registered
+331,Wan Azlan Abdullah,MALE,21,18-25,188,77,MAS,4,6,1996,Summer,Swimming,Swimming Men's 200 metres Individual Medley,Not Registered
+331,Wan Azlan Abdullah,MALE,21,18-25,188,77,MAS,4,6,1996,Summer,Swimming,Swimming Men's 400 metres Individual Medley,Not Registered
+331,Wan Azlan Abdullah,MALE,21,18-25,188,77,MAS,4,6,1996,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
+331,Wan Azlan Abdullah,MALE,25,18-25,188,77,MAS,4,6,2000,Summer,Swimming,Swimming Men's 400 metres Individual Medley,Not Registered
+332,Zarinah Abdullah,Female,21,18-25,NULL,NULL,SGP,4,6,1992,Summer,Badminton,Badminton Women's Singles,Not Registered
+332,Zarinah Abdullah,Female,25,18-25,NULL,NULL,SGP,4,6,1996,Summer,Badminton,Badminton Women's Singles,Not Registered
+333,Abdel Wahab Abdullah Salih,MALE,NULL,NULL,190,75,SUD,4,6,1968,Summer,Boxing,Boxing Men's Light-Middleweight,Not Registered
+333,Abdel Wahab Abdullah Salih,MALE,NULL,NULL,190,75,SUD,4,6,1972,Summer,Boxing,Boxing Men's Middleweight,Not Registered
+334,Abubakar Sadiq Abdullahi,MALE,28,25-30,NULL,NULL,NGR,4,6,1988,Summer,Tennis,Tennis Men's Singles,Not Registered
+335,Abdulqdir Abdullayev,MALE,28,25-30,188,91,AZE,4,6,2016,Summer,Boxing,Boxing Men's Heavyweight,Not Registered
+336,Arif Yadulla Abdullayev,MALE,27,25-30,164,60,AZE,4,6,1996,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",Not Registered
+336,Arif Yadulla Abdullayev,MALE,32,Over 30,164,60,AZE,4,6,2000,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",Not Registered
+337,Mukhammad Kadyr Abdullayev,MALE,22,18-25,169,63,UZB,4,6,1996,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+337,Mukhammad Kadyr Abdullayev,MALE,26,25-30,169,63,UZB,4,6,2000,Summer,Boxing,Boxing Men's Light-Welterweight,Gold
+338,Muminzhon Abdullayev,MALE,22,18-25,190,130,UZB,4,6,2012,Summer,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Not Registered
+338,Muminzhon Abdullayev,MALE,26,25-30,190,130,UZB,4,6,2016,Summer,Wrestling,"Wrestling Men's Super-Heavyweight, Greco-Roman",Not Registered
+339,Namiq Yadulla Abdullayev,MALE,25,18-25,167,55,AZE,4,6,1996,Summer,Wrestling,"Wrestling Men's Flyweight, Freestyle",Silver
+339,Namiq Yadulla Abdullayev,MALE,29,25-30,167,55,AZE,4,6,2000,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",Gold
+339,Namiq Yadulla Abdullayev,MALE,33,Over 30,167,55,AZE,4,6,2004,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",Not Registered
+340,Laye Abdullayeva,Female,21,18-25,170,47,AZE,4,6,2012,Summer,Athletics,"Athletics Women's 5,000 metres",Not Registered
+341,lqar Abdulov,MALE,27,25-30,175,74,AZE,4,6,2008,Summer,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Not Registered
+342,Abdullah Abdulrahman Zeyab,MALE,16,Under 18,177,NULL,KUW,4,6,1972,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+343,Abir Abdulrahman Khalil Mahmoud Khalil,Female,16,Under 18,162,72,EGY,4,6,2008,Summer,Weightlifting,Weightlifting Women's Light-Heavyweight,Not Registered
+343,Abir Abdulrahman Khalil Mahmoud Khalil,Female,20,18-25,162,72,EGY,4,6,2012,Summer,Weightlifting,Weightlifting Women's Heavyweight,Not Registered
+344,Amer Abdulrahman Abdallah Hussain Al-Hammadi,MALE,23,18-25,168,68,UAE,4,6,2012,Summer,Football,Football Men's Football,Not Registered
+345,Omar Abdulrahman Ahmad Al-Raaqi Al-Amoudi,MALE,20,18-25,168,62,UAE,4,6,2012,Summer,Football,Football Men's Football,Not Registered
+346,Shaza Yahia Nazih Abdulrahman El-Sayed,Female,15,Under 18,170,59,EGY,4,6,2008,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,Not Registered
+346,Shaza Yahia Nazih Abdulrahman El-Sayed,Female,19,18-25,170,59,EGY,4,6,2012,Summer,Synchronized Swimming,Synchronized Swimming Women's Duet,Not Registered
+346,Shaza Yahia Nazih Abdulrahman El-Sayed,Female,19,18-25,170,59,EGY,4,6,2012,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,Not Registered
+347,Najim Abdulrazak Al-Enazy,MALE,18,18-25,150,60,KUW,4,6,1980,Summer,Athletics,Athletics Men's Discus Throw,Not Registered
+348,Zeyad Abdulrazak Al-Khudhur Al-Enazy,MALE,19,18-25,181,66,KUW,4,6,1988,Summer,Athletics,Athletics Men's 110 metres Hurdles,Not Registered
+348,Zeyad Abdulrazak Al-Khudhur Al-Enazy,MALE,23,18-25,181,66,KUW,4,6,1992,Summer,Athletics,Athletics Men's 110 metres Hurdles,Not Registered
+349,Waheed Abdulridha Waheed Karaawi,MALE,33,Over 30,178,74,IRQ,4,6,2016,Summer,Boxing,Boxing Men's Middleweight,Not Registered
+350,Mohamed Abdultwab Ibrahim Abd El-Baki,MALE,21,18-25,162,69,EGY,4,6,2008,Summer,Weightlifting,Weightlifting Men's Featherweight,Not Registered
+350,Mohamed Abdultwab Ibrahim Abd El-Baki,MALE,25,18-25,162,69,EGY,4,6,2012,Summer,Weightlifting,Weightlifting Men's Lightweight,Not Registered
+351,Julius Shareef Abdur-Rahim,MALE,23,18-25,202,104,USA,4,6,2000,Summer,Basketball,Basketball Men's Basketball,Gold
+352,Sherzod Abdurahmonov,MALE,22,18-25,178,73,UZB,4,6,2004,Summer,Boxing,Boxing Men's Middleweight,Not Registered
+353,Rasul Abduraim,MALE,19,18-25,183,74,KGZ,4,6,2008,Summer,Taekwondo,Taekwondo Men's Featherweight,Not Registered
+353,Rasul Abduraim,MALE,23,18-25,183,74,KGZ,4,6,2012,Summer,Taekwondo,Taekwondo Men's Welterweight,Not Registered
+354,Bekzod Makhamadzhonovich Abdurakhmonov,MALE,26,25-30,172,74,UZB,4,6,2016,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",Not Registered
+355,Mukhamadmurod Abdurakhmonov,MALE,29,25-30,192,117,TJK,4,6,2016,Summer,Judo,Judo Men's Heavyweight,Not Registered
+356,Adlan Aliyevich Abdurashidov,MALE,26,25-30,172,60,RUS,4,6,2016,Summer,Boxing,Boxing Men's Lightweight,Not Registered
+357,Yusup Abdusalomov,MALE,26,25-30,170,84,TJK,4,6,2004,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",Not Registered
+357,Yusup Abdusalomov,MALE,30,25-30,170,84,TJK,4,6,2008,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Silver
+357,Yusup Abdusalomov,MALE,34,Over 30,170,84,TJK,4,6,2012,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",Not Registered
+358,Fawzi Abdussalam,MALE,NULL,NULL,179,76,LBA,4,6,1980,Summer,Cycling,Cycling Men's Sprint,Not Registered
+359,Andrey Khakimovich Abduvaliyev,MALE,26,25-30,190,125,EUN,4,6,1992,Summer,Athletics,Athletics Men's Hammer Throw,Gold
+359,Andrey Khakimovich Abduvaliyev,MALE,34,Over 30,190,125,UZB,4,6,2000,Summer,Athletics,Athletics Men's Hammer Throw,Not Registered
+360,Dzhamolidin Mirgarifanovich Abduzhaparov,MALE,24,18-25,174,72,URS,4,6,1988,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+360,Dzhamolidin Mirgarifanovich Abduzhaparov,MALE,32,Over 30,174,72,UZB,4,6,1996,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+361,Aybek Abdymomunov,MALE,18,18-25,162,54,KGZ,4,6,2004,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+362,Isao Ko Abe,MALE,24,18-25,177,75,JPN,4,6,1936,Summer,Athletics,Athletics Men's Hammer Throw,Not Registered
+364,Kazuo Abe,MALE,25,18-25,166,69,JPN,4,6,1960,Summer,Wrestling,"Wrestling Men's Lightweight, Freestyle",Not Registered
+365,Kinya Abe,MALE,23,18-25,168,68,JPN,4,6,1992,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+366,Kiyoshi Abe,MALE,25,18-25,167,62,JPN,4,6,1972,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",Not Registered
+368,Naoki Abe,MALE,23,18-25,173,68,JPN,4,6,1968,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+368,Naoki Abe,MALE,23,18-25,173,68,JPN,4,6,1968,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+369,Osamu Abe,MALE,22,18-25,NULL,NULL,JPN,4,6,1936,Summer,Rowing,Rowing Men's Coxed Pairs,Not Registered
+370,Shigeaki Abe,MALE,24,18-25,178,70,JPN,4,6,1972,Summer,Basketball,Basketball Men's Basketball,Not Registered
+370,Shigeaki Abe,MALE,28,25-30,178,70,JPN,4,6,1976,Summer,Basketball,Basketball Men's Basketball,Not Registered
+371,Shinnosuke Abe,MALE,21,18-25,179,91,JPN,4,6,2000,Summer,Baseball,Baseball Men's Baseball,Not Registered
+371,Shinnosuke Abe,MALE,29,25-30,179,91,JPN,4,6,2008,Summer,Baseball,Baseball Men's Baseball,Not Registered
+372,"Sanshiro ""Sonny"" Abe",MALE,26,25-30,166,57,JPN,4,6,1996,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",Not Registered
+373,Tadashi Abe,MALE,21,18-25,190,80,JPN,4,6,1984,Summer,Rowing,Rowing Men's Coxed Fours,Not Registered
+373,Tadashi Abe,MALE,25,18-25,190,80,JPN,4,6,1988,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+373,Tadashi Abe,MALE,29,25-30,190,80,JPN,4,6,1992,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+374,Tadatoshi Abe,MALE,28,25-30,170,60,JPN,4,6,1960,Summer,Hockey,Hockey Men's Hockey,Not Registered
+375,Wakako Abe,Female,18,18-25,168,60,JPN,4,6,1984,Summer,Cycling,"Cycling Women's Road Race, Individual",Not Registered
+376,Yoshiyuki Abe,MALE,31,Over 30,175,67,JPN,4,6,2000,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+377,Yuki Abe,MALE,22,18-25,177,75,JPN,4,6,2004,Summer,Football,Football Men's Football,Not Registered
+378,Angelik Abebame,Female,NULL,NULL,NULL,NULL,CGO,4,6,1980,Summer,Handball,Handball Women's Handball,Not Registered
+379,Addis Abebe,MALE,21,18-25,160,50,ETH,4,6,1992,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+379,Addis Abebe,MALE,21,18-25,160,50,ETH,4,6,1992,Summer,Athletics,"Athletics Men's 10,000 metres",Bronze
+380,Biruk Abebe,MALE,22,18-25,173,62,ETH,4,6,1992,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+380,Biruk Abebe,MALE,22,18-25,173,62,ETH,4,6,1992,Summer,Cycling,Cycling Men's 100 kilometres Team Time Trial,Not Registered
+381,Benaissa Abed,MALE,23,18-25,170,51,ALG,4,6,1988,Summer,Boxing,Boxing Men's Flyweight,Not Registered
+382,Soha Abed Elaal,Female,35,Over 30,NULL,NULL,EGY,4,6,2008,Summer,Archery,Archery Women's Individual,Not Registered
+383,Mojtaba Abedini Shormasti,MALE,27,25-30,180,83,IRI,4,6,2012,Summer,Fencing,"Fencing Men's Sabre, Individual",Not Registered
+383,Mojtaba Abedini Shormasti,MALE,31,Over 30,180,83,IRI,4,6,2016,Summer,Fencing,"Fencing Men's Sabre, Individual",Not Registered
+384,Thophile Abega Mbida,MALE,30,25-30,NULL,NULL,CMR,4,6,1984,Summer,Football,Football Men's Football,Not Registered
+385,"Max ""Xam"" Abegglen",MALE,22,18-25,NULL,NULL,SUI,4,6,1924,Summer,Football,Football Men's Football,Silver
+385,"Max ""Xam"" Abegglen",MALE,26,25-30,NULL,NULL,SUI,4,6,1928,Summer,Football,Football Men's Football,Not Registered
+386,Alexandre Abeid,MALE,22,18-25,194,92,BRA,4,6,1972,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+386,Alexandre Abeid,MALE,26,25-30,194,92,BRA,4,6,1976,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+387,Sonia Abejn Esteban,Female,19,18-25,169,48,ESP,4,6,2004,Summer,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Group,Not Registered
+388,Abel Carlos da Silva Braga,MALE,19,18-25,190,73,BRA,4,6,1972,Summer,Football,Football Men's Football,Not Registered
+389,Adolf Gaston Abel,MALE,45,Over 30,NULL,NULL,GER,4,6,1928,Summer,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",Not Registered
+389,Adolf Gaston Abel,MALE,45,Over 30,NULL,NULL,GER,4,6,1928,Summer,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",Not Registered
+390,Brooke Abel,Female,20,18-25,163,52,USA,4,6,2008,Summer,Synchronized Swimming,Synchronized Swimming Women's Team,Not Registered
+394,Irene Abel,Female,19,18-25,160,48,GDR,4,6,1972,Summer,Gymnastics,Gymnastics Women's Individual All-Around,Not Registered
+394,Irene Abel,Female,19,18-25,160,48,GDR,4,6,1972,Summer,Gymnastics,Gymnastics Women's Team All-Around,Silver
+394,Irene Abel,Female,19,18-25,160,48,GDR,4,6,1972,Summer,Gymnastics,Gymnastics Women's Floor Exercise,Not Registered
+394,Irene Abel,Female,19,18-25,160,48,GDR,4,6,1972,Summer,Gymnastics,Gymnastics Women's Horse Vault,Not Registered
+394,Irene Abel,Female,19,18-25,160,48,GDR,4,6,1972,Summer,Gymnastics,Gymnastics Women's Uneven Bars,Not Registered
+394,Irene Abel,Female,19,18-25,160,48,GDR,4,6,1972,Summer,Gymnastics,Gymnastics Women's Balance Beam,Not Registered
+395,Jennifer Abel,Female,16,Under 18,160,62,CAN,4,6,2008,Summer,Diving,Diving Women's Springboard,Not Registered
+395,Jennifer Abel,Female,20,18-25,160,62,CAN,4,6,2012,Summer,Diving,Diving Women's Springboard,Not Registered
+395,Jennifer Abel,Female,20,18-25,160,62,CAN,4,6,2012,Summer,Diving,Diving Women's Synchronized Springboard,Bronze
+395,Jennifer Abel,Female,24,18-25,160,62,CAN,4,6,2016,Summer,Diving,Diving Women's Springboard,Not Registered
+395,Jennifer Abel,Female,24,18-25,160,62,CAN,4,6,2016,Summer,Diving,Diving Women's Synchronized Springboard,Not Registered
+396,Katja Abel,Female,25,18-25,165,55,GER,4,6,2008,Summer,Gymnastics,Gymnastics Women's Individual All-Around,Not Registered
+396,Katja Abel,Female,25,18-25,165,55,GER,4,6,2008,Summer,Gymnastics,Gymnastics Women's Team All-Around,Not Registered
+396,Katja Abel,Female,25,18-25,165,55,GER,4,6,2008,Summer,Gymnastics,Gymnastics Women's Floor Exercise,Not Registered
+396,Katja Abel,Female,25,18-25,165,55,GER,4,6,2008,Summer,Gymnastics,Gymnastics Women's Uneven Bars,Not Registered
+396,Katja Abel,Female,25,18-25,165,55,GER,4,6,2008,Summer,Gymnastics,Gymnastics Women's Balance Beam,Not Registered
+397,Mara Abel Diguez,Female,25,18-25,163,46,ESP,4,6,2000,Summer,Athletics,"Athletics Women's 10,000 metres",Not Registered
+397,Mara Abel Diguez,Female,29,25-30,163,46,ESP,4,6,2004,Summer,Athletics,Athletics Women's Marathon,Not Registered
+398,Roger Abel,MALE,24,18-25,NULL,NULL,MON,4,6,1924,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Not Registered
+398,Roger Abel,MALE,36,Over 30,NULL,NULL,MON,4,6,1936,Summer,Shooting,"Shooting Men's Rapid-Fire Pistol, 25 metres",Not Registered
+398,Roger Abel,MALE,36,Over 30,NULL,NULL,MON,4,6,1936,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Not Registered
+398,Roger Abel,MALE,48,Over 30,NULL,NULL,MON,4,6,1948,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Not Registered
+398,Roger Abel,MALE,52,Over 30,NULL,NULL,MON,4,6,1952,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",Not Registered
+398,Roger Abel,MALE,52,Over 30,NULL,NULL,MON,4,6,1952,Summer,Shooting,"Shooting Men's Small-Bore Rifle, Prone, 50 metres",Not Registered
+399,Egil Sten Abel,MALE,20,18-25,NULL,NULL,NOR,4,6,1920,Summer,Sailing,Sailing Mixed 7 metres,Silver
+400,Yaritza Abel Rojas,Female,28,25-30,NULL,62,CUB,4,6,2012,Summer,Judo,Judo Women's Half-Middleweight,Not Registered
+401,Abelardo Fernndez Antua,MALE,22,18-25,NULL,NULL,ESP,4,6,1992,Summer,Football,Football Men's Football,Gold
+402,Arthur Abele,MALE,22,18-25,184,85,GER,4,6,2008,Summer,Athletics,Athletics Men's Decathlon,Not Registered
+402,Arthur Abele,MALE,30,25-30,184,85,GER,4,6,2016,Summer,Athletics,Athletics Men's Decathlon,Not Registered
+403,Ruth Abeles,Female,18,18-25,153,48,ISR,4,6,1960,Summer,Gymnastics,Gymnastics Women's Individual All-Around,Not Registered
+403,Ruth Abeles,Female,18,18-25,153,48,ISR,4,6,1960,Summer,Gymnastics,Gymnastics Women's Floor Exercise,Not Registered
+403,Ruth Abeles,Female,18,18-25,153,48,ISR,4,6,1960,Summer,Gymnastics,Gymnastics Women's Horse Vault,Not Registered
+403,Ruth Abeles,Female,18,18-25,153,48,ISR,4,6,1960,Summer,Gymnastics,Gymnastics Women's Uneven Bars,Not Registered
+403,Ruth Abeles,Female,18,18-25,153,48,ISR,4,6,1960,Summer,Gymnastics,Gymnastics Women's Balance Beam,Not Registered
+404,"Louis Grenville ""Lou"" Abell",MALE,15,Under 18,NULL,NULL,USA,4,6,1900,Summer,Rowing,Rowing Men's Coxed Eights,Gold
+404,"Louis Grenville ""Lou"" Abell",MALE,19,18-25,NULL,NULL,USA,4,6,1904,Summer,Rowing,Rowing Men's Coxed Eights,Gold
+405,Jos Javier Abella Fanjul,MALE,22,18-25,176,66,MEX,4,6,2016,Summer,Football,Football Men's Football,Not Registered
+406,Ramn Neptuno Abella Caside,MALE,26,25-30,NULL,NULL,URU,4,6,1948,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+408,Alfonso Abelln Lpez,MALE,37,Over 30,174,63,ESP,4,6,1988,Summer,Athletics,Athletics Men's Marathon,Not Registered
+409,Juan Luis Abelln Pallahi,MALE,19,18-25,NULL,NULL,ESP,4,6,1952,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+410,Edwige Marie Abna Fouda,Female,23,18-25,173,61,CMR,4,6,1996,Summer,Athletics,Athletics Women's 4 x 100 metres Relay,Not Registered
+411,Gezahgne Abera,MALE,22,18-25,166,58,ETH,4,6,2000,Summer,Athletics,Athletics Men's Marathon,Gold
+412,Tesfaye Abera Dibaba,MALE,24,18-25,192,68,ETH,4,6,2016,Summer,Athletics,Athletics Men's Marathon,Not Registered
+413,Hugo Ral Aberastegui,MALE,27,25-30,186,84,ARG,4,6,1968,Summer,Rowing,Rowing Men's Coxed Fours,Not Registered
+413,Hugo Ral Aberastegui,MALE,30,25-30,186,84,ARG,4,6,1972,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+413,Hugo Ral Aberastegui,MALE,34,Over 30,186,84,ARG,4,6,1976,Summer,Rowing,Rowing Men's Coxed Fours,Not Registered
+414,Arvid berg,MALE,26,25-30,NULL,NULL,SWE,4,6,1912,Summer,Athletics,Athletics Men's Hammer Throw,Not Registered
+416,Nils Georg berg,MALE,19,18-25,181,78,SWE,4,6,1912,Summer,Athletics,Athletics Men's Long Jump,Bronze
+416,Nils Georg berg,MALE,19,18-25,181,78,SWE,4,6,1912,Summer,Athletics,Athletics Men's Triple Jump,Silver
+417,Sara Helena berg,Female,17,Under 18,190,73,SWE,4,6,1988,Summer,Swimming,Swimming Women's 50 metres Freestyle,Not Registered
+418,Karl Konrad berg,MALE,22,18-25,NULL,NULL,FIN,4,6,1912,Summer,Wrestling,"Wrestling Men's Middleweight A, Greco-Roman",Not Registered
+419,Majken berg,Female,30,25-30,170,60,SWE,4,6,1948,Summer,Athletics,Athletics Women's Discus Throw,Not Registered
+420,"Olof Viktor ""Olle"" berg",MALE,27,25-30,181,78,SWE,4,6,1952,Summer,Athletics,"Athletics Men's 1,500 metres",Not Registered
+421,Mohamed Aberhoune,MALE,23,18-25,187,75,MAR,4,6,2012,Summer,Football,Football Men's Football,Not Registered
+423,Michael Brent Abernathy,MALE,22,18-25,182,84,USA,4,6,2000,Summer,Baseball,Baseball Men's Baseball,Gold
+424,Moira Abernethy (-Ford),Female,17,Under 18,NULL,NULL,RSA,4,6,1956,Summer,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Bronze
+424,Moira Abernethy (-Ford),Female,17,Under 18,NULL,NULL,RSA,4,6,1956,Summer,Swimming,Swimming Women's 100 metres Backstroke,Not Registered
+425,Salim Abes,MALE,25,18-25,NULL,NULL,ALG,4,6,1996,Summer,Handball,Handball Men's Handball,Not Registered
+427,Pasqualino Abeti,MALE,24,18-25,173,66,ITA,4,6,1972,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+428,Elvan Abeylegesse,Female,21,18-25,159,40,TUR,4,6,2004,Summer,Athletics,"Athletics Women's 1,500 metres",Not Registered
+428,Elvan Abeylegesse,Female,21,18-25,159,40,TUR,4,6,2004,Summer,Athletics,"Athletics Women's 5,000 metres",Not Registered
+428,Elvan Abeylegesse,Female,25,18-25,159,40,TUR,4,6,2008,Summer,Athletics,"Athletics Women's 5,000 metres",Silver
+428,Elvan Abeylegesse,Female,25,18-25,159,40,TUR,4,6,2008,Summer,Athletics,"Athletics Women's 10,000 metres",Not Registered
+429,Ruwani Abeymanne,Female,30,25-30,160,53,SRI,4,6,2000,Summer,Shooting,"Shooting Women's Air Pistol, 10 metres",Not Registered
+429,Ruwani Abeymanne,Female,30,25-30,160,53,SRI,4,6,2000,Summer,Shooting,"Shooting Women's Sporting Pistol, 25 metres",Not Registered
+430,Matthew Duncan Abeysinghe,MALE,20,18-25,180,74,SRI,4,6,2016,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+431,Narek Abgaryan,MALE,24,18-25,166,52,ARM,4,6,2016,Summer,Boxing,Boxing Men's Flyweight,Not Registered
+432,Koutoua Francis Abia,MALE,26,25-30,180,80,CIV,4,6,1992,Summer,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",Not Registered
+432,Koutoua Francis Abia,MALE,30,25-30,180,80,CIV,4,6,1996,Summer,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",Not Registered
+432,Koutoua Francis Abia,MALE,42,Over 30,180,80,CIV,4,6,2008,Summer,Canoeing,"Canoeing Men's Kayak Singles, 500 metres",Not Registered
+432,Koutoua Francis Abia,MALE,42,Over 30,180,80,CIV,4,6,2008,Summer,Canoeing,"Canoeing Men's Kayak Singles, 1,000 metres",Not Registered
+433,Pablo Abin Vicen,MALE,23,18-25,177,68,ESP,4,6,2008,Summer,Badminton,Badminton Men's Singles,Not Registered
+433,Pablo Abin Vicen,MALE,27,25-30,177,68,ESP,4,6,2012,Summer,Badminton,Badminton Men's Singles,Not Registered
+433,Pablo Abin Vicen,MALE,31,Over 30,177,68,ESP,4,6,2016,Summer,Badminton,Badminton Men's Singles,Not Registered
+434,David Abibssira,MALE,21,18-25,179,63,FRA,4,6,1984,Summer,Shooting,"Shooting Men's Running Target, 50 metres",Not Registered
+435,Silke Abicht,Female,19,18-25,156,46,GDR,4,6,1988,Summer,Diving,Diving Women's Platform,Not Registered
+436,Haithem Abid,MALE,22,18-25,179,72,TUN,4,6,1988,Summer,Football,Football Men's Football,Not Registered
+437,Younis Abid Sadkhan,MALE,18,18-25,NULL,NULL,IRQ,4,6,1988,Summer,Football,Football Men's Football,Not Registered
+438,Jaiye Abidoye,MALE,30,25-30,NULL,NULL,NGR,4,6,1972,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+438,Jaiye Abidoye,MALE,30,25-30,NULL,NULL,NGR,4,6,1972,Summer,Athletics,"Athletics Men's 1,500 metres",Not Registered
+439,Sagat Abikeyeva,Female,27,25-30,160,78,KAZ,4,6,2008,Summer,Judo,Judo Women's Half-Heavyweight,Not Registered
+440,Mitsuhiro Abiko,MALE,19,18-25,169,62,JPN,4,6,2008,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+441,Tomomi Abiko,Female,24,18-25,173,53,JPN,4,6,2012,Summer,Athletics,Athletics Women's Pole Vault,Not Registered
+442,"Catherine ""Kate"" Abilla Awino",Female,27,25-30,162,56,KEN,4,6,2016,Summer,Rugby Sevens,Rugby Sevens Women's Rugby Sevens,Not Registered
+443,Ismail Abilov (-Nizamolu),MALE,25,18-25,172,82,BUL,4,6,1976,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",Not Registered
+443,Ismail Abilov (-Nizamolu),MALE,29,25-30,172,82,BUL,4,6,1980,Summer,Wrestling,"Wrestling Men's Middleweight, Freestyle",Gold
+444,Camille Anne Franoise Abily,Female,27,25-30,168,60,FRA,4,6,2012,Summer,Football,Football Women's Football,Not Registered
+444,Camille Anne Franoise Abily,Female,31,Over 30,168,60,FRA,4,6,2016,Summer,Football,Football Women's Football,Not Registered
+445,Endurance Abinuwa,Female,24,18-25,159,54,NGR,4,6,2012,Summer,Athletics,Athletics Women's 4 x 100 metres Relay,Not Registered
+446,Bode Abiodun,MALE,35,Over 30,170,68,NGR,4,6,2016,Summer,Table Tennis,Table Tennis Men's Team,Not Registered
+447,Firmin Abissi,MALE,28,25-30,159,54,BEN,4,6,1980,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+447,Firmin Abissi,MALE,32,Over 30,159,54,BEN,4,6,1984,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+449,Inga Eduardovna Abitova,Female,26,25-30,164,58,RUS,4,6,2008,Summer,Athletics,"Athletics Women's 10,000 metres",Not Registered
+450,Ceyhun Abiyev,MALE,29,25-30,163,48,AZE,4,6,2004,Summer,Boxing,Boxing Men's Light-Flyweight,Not Registered
+451,Diana Monteiro Abla,Female,21,18-25,175,75,BRA,4,6,2016,Summer,Water Polo,Water Polo Women's Water Polo,Not Registered
+453,Leslie Ablett,MALE,24,18-25,NULL,NULL,GBR,4,6,1928,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+453,Leslie Ablett,MALE,32,Over 30,NULL,NULL,GBR,4,6,1936,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+454,"Edgar Allen ""Ed"" Ablowich",MALE,19,18-25,182,68,USA,4,6,1932,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Gold
+455,Denis Mikhaylovich Ablyazin,MALE,19,18-25,161,62,RUS,4,6,2012,Summer,Gymnastics,Gymnastics Men's Team All-Around,Not Registered
+455,Denis Mikhaylovich Ablyazin,MALE,19,18-25,161,62,RUS,4,6,2012,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Bronze
+455,Denis Mikhaylovich Ablyazin,MALE,19,18-25,161,62,RUS,4,6,2012,Summer,Gymnastics,Gymnastics Men's Horse Vault,Silver
+455,Denis Mikhaylovich Ablyazin,MALE,19,18-25,161,62,RUS,4,6,2012,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+455,Denis Mikhaylovich Ablyazin,MALE,19,18-25,161,62,RUS,4,6,2012,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+455,Denis Mikhaylovich Ablyazin,MALE,19,18-25,161,62,RUS,4,6,2012,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+455,Denis Mikhaylovich Ablyazin,MALE,24,18-25,161,62,RUS,4,6,2016,Summer,Gymnastics,Gymnastics Men's Team All-Around,Silver
+455,Denis Mikhaylovich Ablyazin,MALE,24,18-25,161,62,RUS,4,6,2016,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+455,Denis Mikhaylovich Ablyazin,MALE,24,18-25,161,62,RUS,4,6,2016,Summer,Gymnastics,Gymnastics Men's Horse Vault,Silver
+455,Denis Mikhaylovich Ablyazin,MALE,24,18-25,161,62,RUS,4,6,2016,Summer,Gymnastics,Gymnastics Men's Rings,Bronze
+456,Karin Abma,Female,24,18-25,174,62,NED,4,6,1976,Summer,Rowing,Rowing Women's Coxed Eights,Not Registered
+457,Thorine Christelle Aboa Mbeza,Female,23,18-25,182,78,CMR,4,6,2016,Summer,Volleyball,Volleyball Women's Volleyball,Not Registered
+458,Felix Ahmed Aboagye,MALE,20,18-25,176,70,GHA,4,6,1996,Summer,Football,Football Men's Football,Not Registered
+459,Bukola Dammy Abogunloko,Female,17,Under 18,170,53,NGR,4,6,2012,Summer,Athletics,Athletics Women's 4 x 400 metres Relay,Not Registered
+460,Viktor Andreyevich Aboimov,MALE,22,18-25,190,78,URS,4,6,1972,Summer,Swimming,Swimming Men's 400 metres Freestyle,Not Registered
+460,Viktor Andreyevich Aboimov,MALE,22,18-25,190,78,URS,4,6,1972,Summer,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Silver
+460,Viktor Andreyevich Aboimov,MALE,22,18-25,190,78,URS,4,6,1972,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Bronze
+460,Viktor Andreyevich Aboimov,MALE,22,18-25,190,78,URS,4,6,1972,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
+461,Mohamed Aboker,MALE,26,25-30,175,61,SOM,4,6,1972,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+461,Mohamed Aboker,MALE,26,25-30,175,61,SOM,4,6,1972,Summer,Athletics,"Athletics Men's 1,500 metres",Not Registered
+464,Abdul Razzak Aboobakur,MALE,25,18-25,168,59,MDV,4,6,1988,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+465,"Matthew ""Matt"" Abood",MALE,30,25-30,197,92,AUS,4,6,2016,Summer,Swimming,Swimming Men's 50 metres Freestyle,Not Registered
+465,"Matthew ""Matt"" Abood",MALE,30,25-30,197,92,AUS,4,6,2016,Summer,Swimming,Swimming Men's 4 x 100 metres Freestyle Relay,Bronze
+467,Jean-Pierre Abossolo-Ze,MALE,27,25-30,NULL,NULL,CMR,4,6,1984,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+467,Jean-Pierre Abossolo-Ze,MALE,27,25-30,NULL,NULL,CMR,4,6,1984,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+468,Abdelhalim Muhammad Abou,MALE,27,25-30,210,88,EGY,4,6,2016,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+469,Tarek Abou Al Dahab,MALE,28,25-30,170,64,LIB,4,6,1968,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+469,Tarek Abou Al Dahab,MALE,28,25-30,170,64,LIB,4,6,1968,Summer,Cycling,Cycling Men's Sprint,Not Registered
+469,Tarek Abou Al Dahab,MALE,28,25-30,170,64,LIB,4,6,1968,Summer,Cycling,"Cycling Men's 1,000 metres Time Trial",Not Registered
+469,Tarek Abou Al Dahab,MALE,28,25-30,170,64,LIB,4,6,1968,Summer,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",Not Registered
+469,Tarek Abou Al Dahab,MALE,32,Over 30,170,64,LIB,4,6,1972,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+469,Tarek Abou Al Dahab,MALE,32,Over 30,170,64,LIB,4,6,1972,Summer,Cycling,"Cycling Men's Individual Pursuit, 4,000 metres",Not Registered
+470,Bachir Hani Abou Assi,MALE,24,18-25,175,74,LIB,4,6,1972,Summer,Wrestling,"Wrestling Men's Welterweight, Freestyle",Not Registered
+471,Ashraf Abou El-Hassan,MALE,25,18-25,186,86,EGY,4,6,2000,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+471,Ashraf Abou El-Hassan,MALE,33,Over 30,186,86,EGY,4,6,2008,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+471,Ashraf Abou El-Hassan,MALE,41,Over 30,186,86,EGY,4,6,2016,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+472,Galal El-Din Abdel Meguid Abou El-Kheir,MALE,24,18-25,NULL,NULL,EGY,4,6,1952,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+473,Magdy Abou El-Magd,MALE,27,25-30,188,85,EGY,4,6,2000,Summer,Handball,Handball Men's Handball,Not Registered
+474,Essameldin Abou El-Nein,MALE,29,25-30,205,102,EGY,4,6,1984,Summer,Basketball,Basketball Men's Basketball,Not Registered
+475,Abdel Khlik Abou El-Yazi,MALE,26,25-30,NULL,NULL,EGY,4,6,1992,Summer,Hockey,Hockey Men's Hockey,Not Registered
+476,Mohamed Moustafa Abou Elea,MALE,20,18-25,168,54,EGY,4,6,2000,Summer,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",Not Registered
+477,Mahmoud Abou Elelaa,MALE,30,25-30,181,76,EGY,4,6,1984,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+478,Mohammed Tawfiq Abou Habaga,MALE,27,25-30,NULL,NULL,EGY,4,6,1948,Summer,Football,Football Men's Football,Not Registered
+479,Zaid Abou Hamed,MALE,30,25-30,182,79,SYR,4,6,2000,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+480,Youssef Kamel Mohamed Abou Ouf,MALE,24,18-25,NULL,NULL,EGY,4,6,1948,Summer,Basketball,Basketball Men's Basketball,Not Registered
+480,Youssef Kamel Mohamed Abou Ouf,MALE,28,25-30,NULL,NULL,EGY,4,6,1952,Summer,Basketball,Basketball Men's Basketball,Not Registered
+481,Gaber Mooti Abou Zeid,MALE,22,18-25,187,82,EGY,4,6,1976,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+481,Gaber Mooti Abou Zeid,MALE,30,25-30,187,82,EGY,4,6,1984,Summer,Volleyball,Volleyball Men's Volleyball,Not Registered
+482,Taher Abou Zeid Sayid Amer,MALE,22,18-25,NULL,NULL,EGY,4,6,1984,Summer,Football,Football Men's Football,Not Registered
+483,Ahmed Farid Abou-Shadi,MALE,38,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's Sabre, Individual",Not Registered
+483,Ahmed Farid Abou-Shadi,MALE,38,Over 30,NULL,NULL,EGY,4,6,1948,Summer,Fencing,"Fencing Men's Sabre, Team",Not Registered
+483,Ahmed Farid Abou-Shadi,MALE,42,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's Sabre, Individual",Not Registered
+483,Ahmed Farid Abou-Shadi,MALE,42,Over 30,NULL,NULL,EGY,4,6,1952,Summer,Fencing,"Fencing Men's Sabre, Team",Not Registered
+484,Abdel Fattah Abou-Shanab,MALE,24,18-25,NULL,NULL,UAR,4,6,1960,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+484,Abdel Fattah Abou-Shanab,MALE,28,25-30,NULL,NULL,EGY,4,6,1964,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+485,Sadoon Mohamed Aboub,MALE,21,18-25,170,48,IRQ,4,6,1988,Summer,Boxing,Boxing Men's Light-Flyweight,Not Registered
+486,Zakaria Aboub,MALE,20,18-25,171,65,MAR,4,6,2000,Summer,Football,Football Men's Football,Not Registered
+487,Inni Aboubacar,MALE,NULL,NULL,NULL,NULL,NIG,4,6,1988,Summer,Athletics,Athletics Men's Marathon,Not Registered
+488,Ibrahim Mohamedin Aboubaker,MALE,21,18-25,190,65,QAT,4,6,2004,Summer,Athletics,Athletics Men's Triple Jump,Not Registered
+488,Ibrahim Mohamedin Aboubaker,MALE,25,18-25,190,65,QAT,4,6,2008,Summer,Athletics,Athletics Men's Triple Jump,Not Registered
+489,Ahmed Ghmin Aboud,MALE,22,18-25,170,51,IRQ,4,6,1992,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+490,Fathi Khalifa Aboud,MALE,23,18-25,175,75,LBA,4,6,1988,Summer,Athletics,Athletics Men's Triple Jump,Not Registered
+491,Kamel Aboud,MALE,22,18-25,178,67,ALG,4,6,1984,Summer,Boxing,Boxing Men's Welterweight,Not Registered
+492,Marwan Suhail Aboud,MALE,NULL,NULL,NULL,NULL,IRQ,4,6,1984,Summer,Wrestling,"Wrestling Men's Bantamweight, Freestyle",Not Registered
+493,Rabah Aboud,MALE,31,Over 30,180,64,ALG,4,6,2012,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+494,Mamdouh Taha Al-Husseini Abouebaid,MALE,28,25-30,183,85,EGY,4,6,2016,Summer,Handball,Handball Men's Handball,Not Registered
+495,Alaaeldin Ahmad El-Sayyid Abouelkassem,MALE,21,18-25,188,87,EGY,4,6,2012,Summer,Fencing,"Fencing Men's Foil, Individual",Silver
+495,Alaaeldin Ahmad El-Sayyid Abouelkassem,MALE,21,18-25,188,87,EGY,4,6,2012,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+495,Alaaeldin Ahmad El-Sayyid Abouelkassem,MALE,25,18-25,188,87,EGY,4,6,2016,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+495,Alaaeldin Ahmad El-Sayyid Abouelkassem,MALE,25,18-25,188,87,EGY,4,6,2016,Summer,Fencing,"Fencing Men's Foil, Team",Not Registered
+496,Haysam Farouk Abouelw,MALE,21,18-25,NULL,NULL,EGY,4,6,1992,Summer,Football,Football Men's Football,Not Registered
+497,Waguih Rauf Aboul Seoud,MALE,22,18-25,NULL,NULL,EGY,4,6,1968,Summer,Diving,Diving Men's Platform,Not Registered
+498,El-Sayed Aboumedan,MALE,26,25-30,178,81,EGY,4,6,2004,Summer,Judo,Judo Men's Half-Middleweight,Not Registered
+500,Sdonoud Janvier Abouta,MALE,23,18-25,NULL,NULL,MLI,4,6,2004,Summer,Football,Football Men's Football,Not Registered
+501,Mohamed Mohamed Mohamed Aboutrika,MALE,33,Over 30,182,77,EGY,4,6,2012,Summer,Football,Football Men's Football,Not Registered
+502,Ahmad Shah Abouwi,MALE,NULL,NULL,NULL,NULL,AFG,4,6,1956,Summer,Hockey,Hockey Men's Hockey,Not Registered
+503,Adeola Aboyade-Cole,MALE,22,18-25,193,78,NGR,4,6,1972,Summer,Athletics,Athletics Men's 110 metres Hurdles,Not Registered
+504,Cheryl Abplanalp,Female,24,18-25,174,68,USA,4,6,1996,Summer,Handball,Handball Women's Handball,Not Registered
+505,"Alexander ""Alex"" Abraham (Steglitz)",MALE,25,18-25,186,84,GER,4,6,1912,Summer,Athletics,Athletics Men's Decathlon,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Team All-Around,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Horse Vault,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+506,Andrei Abraham,MALE,19,18-25,NULL,NULL,ROU,4,6,1936,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+507,Attila brahm,MALE,21,18-25,192,88,HUN,4,6,1988,Summer,Canoeing,"Canoeing Men's Kayak Doubles, 500 metres",Bronze
+507,Attila brahm,MALE,21,18-25,192,88,HUN,4,6,1988,Summer,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Gold
+507,Attila brahm,MALE,25,18-25,192,88,HUN,4,6,1992,Summer,Canoeing,"Canoeing Men's Kayak Fours, 1,000 metres",Silver
+508,Bernhard Abraham,MALE,NULL,NULL,NULL,NULL,GER,4,6,1906,Summer,Gymnastics,Gymnastics Men's Team All-Around,Not Registered
+509,Gary Abraham,MALE,17,Under 18,175,64,GBR,4,6,1976,Summer,Swimming,Swimming Men's 100 metres Backstroke,Not Registered
+509,Gary Abraham,MALE,17,Under 18,175,64,GBR,4,6,1976,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
+509,Gary Abraham,MALE,21,18-25,175,64,GBR,4,6,1980,Summer,Swimming,Swimming Men's 100 metres Backstroke,Not Registered
+509,Gary Abraham,MALE,21,18-25,175,64,GBR,4,6,1980,Summer,Swimming,Swimming Men's 100 metres Butterfly,Not Registered
+509,Gary Abraham,MALE,21,18-25,175,64,GBR,4,6,1980,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Bronze
+510,Melita Isidora Abraham Schssler,Female,19,18-25,170,62,CHI,4,6,2016,Summer,Rowing,Rowing Women's Lightweight Double Sculls,Not Registered
+511,Tadesse Abraham,MALE,33,Over 30,178,61,SUI,4,6,2016,Summer,Athletics,Athletics Men's Marathon,Not Registered
+512,Shiny Kurisingal Abraham-Wilson,Female,19,18-25,167,53,IND,4,6,1984,Summer,Athletics,Athletics Women's 800 metres,Not Registered
+512,Shiny Kurisingal Abraham-Wilson,Female,19,18-25,167,53,IND,4,6,1984,Summer,Athletics,Athletics Women's 4 x 400 metres Relay,Not Registered
+512,Shiny Kurisingal Abraham-Wilson,Female,23,18-25,167,53,IND,4,6,1988,Summer,Athletics,Athletics Women's 800 metres,Not Registered
+512,Shiny Kurisingal Abraham-Wilson,Female,23,18-25,167,53,IND,4,6,1988,Summer,Athletics,Athletics Women's 4 x 400 metres Relay,Not Registered
+512,Shiny Kurisingal Abraham-Wilson,Female,27,25-30,167,53,IND,4,6,1992,Summer,Athletics,Athletics Women's 800 metres,Not Registered
+512,Shiny Kurisingal Abraham-Wilson,Female,31,Over 30,167,53,IND,4,6,1996,Summer,Athletics,Athletics Women's 4 x 400 metres Relay,Not Registered
+513,Mariola Teresa Abrahamczyk (-Fronckowiak),Female,21,18-25,180,70,POL,4,6,1980,Summer,Rowing,Rowing Women's Coxed Quadruple Sculls,Not Registered
+514,Ara Abrahamian,MALE,25,18-25,191,84,SWE,4,6,2000,Summer,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",Not Registered
+514,Ara Abrahamian,MALE,29,25-30,191,84,SWE,4,6,2004,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Silver
+514,Ara Abrahamian,MALE,33,Over 30,191,84,SWE,4,6,2008,Summer,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",Not Registered
+515,Stphan Abrahamian Gonzalez,MALE,22,18-25,NULL,NULL,FRA,4,6,1968,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+516,Clyde Abrahams,MALE,29,25-30,178,68,RSA,4,6,2008,Summer,Hockey,Hockey Men's Hockey,Not Registered
+517,Glen Abrahams Martnez,MALE,22,18-25,179,72,CRC,4,6,1984,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+517,Glen Abrahams Martnez,MALE,22,18-25,179,72,CRC,4,6,1984,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+518,Guy A. Abrahams,MALE,23,18-25,173,65,PAN,4,6,1976,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+518,Guy A. Abrahams,MALE,23,18-25,173,65,PAN,4,6,1976,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+519,Harold Maurice Abrahams,MALE,20,18-25,183,75,GBR,4,6,1920,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+519,Harold Maurice Abrahams,MALE,20,18-25,183,75,GBR,4,6,1920,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+519,Harold Maurice Abrahams,MALE,20,18-25,183,75,GBR,4,6,1920,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+519,Harold Maurice Abrahams,MALE,20,18-25,183,75,GBR,4,6,1920,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+519,Harold Maurice Abrahams,MALE,24,18-25,183,75,GBR,4,6,1924,Summer,Athletics,Athletics Men's 100 metres,Gold
+519,Harold Maurice Abrahams,MALE,24,18-25,183,75,GBR,4,6,1924,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+519,Harold Maurice Abrahams,MALE,24,18-25,183,75,GBR,4,6,1924,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Silver
+520,Sidney Solomon Abrahams,MALE,21,18-25,NULL,NULL,GBR,4,6,1906,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+520,Sidney Solomon Abrahams,MALE,21,18-25,NULL,NULL,GBR,4,6,1906,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+520,Sidney Solomon Abrahams,MALE,27,25-30,NULL,NULL,GBR,4,6,1912,Summer,Athletics,Athletics Men's Long Jump,Not Registered
+521,Isak Abrahamsen,MALE,21,18-25,NULL,NULL,NOR,4,6,1912,Summer,Gymnastics,"Gymnastics Men's Team All-Around, Free System",Gold
+524,"Donald Robert Abrahamson, Jr.",MALE,26,25-30,162,67,USA,4,6,1984,Summer,Weightlifting,Weightlifting Men's Lightweight,Not Registered
+525,Richard Neal Abrahamson,MALE,24,18-25,190,88,USA,4,6,1972,Summer,Handball,Handball Men's Handball,Not Registered
+525,Richard Neal Abrahamson,MALE,28,25-30,190,88,USA,4,6,1976,Summer,Handball,Handball Men's Handball,Not Registered
+527,Erik Adolf Efraim Abrahamsson,MALE,22,18-25,172,61,SWE,4,6,1920,Summer,Athletics,Athletics Men's Long Jump,Bronze
+528,Karl Gran Abrahamsson,MALE,28,25-30,180,72,SWE,4,6,1960,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+528,Karl Gran Abrahamsson,MALE,28,25-30,180,72,SWE,4,6,1960,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+528,Karl Gran Abrahamsson,MALE,28,25-30,180,72,SWE,4,6,1960,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+528,Karl Gran Abrahamsson,MALE,33,Over 30,180,72,SWE,4,6,1964,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+528,Karl Gran Abrahamsson,MALE,33,Over 30,180,72,SWE,4,6,1964,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+531,"Fletcher Abram, Jr.",MALE,21,18-25,193,87,USA,4,6,1972,Summer,Handball,Handball Men's Handball,Not Registered
+533,Yelena Vasilyevna Abramchuk (Kopets-),Female,28,25-30,182,95,BLR,4,6,2016,Summer,Athletics,Athletics Women's Shot Put,Not Registered
+536,Lahcen Abrami,MALE,22,18-25,NULL,NULL,MAR,4,6,1992,Summer,Football,Football Men's Football,Not Registered
+537,Ek'aterina Abramia,Female,16,Under 18,167,43,GEO,4,6,1996,Summer,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,Not Registered
+538,Jernej Abrami,MALE,31,Over 30,175,70,SLO,4,6,1996,Summer,Canoeing,"Canoeing Men's Kayak Singles, Slalom",Not Registered
+540,Andrey Vasilyevich Abramov,MALE,24,18-25,180,100,URS,4,6,1960,Summer,Boxing,Boxing Men's Heavyweight,Not Registered
+541,Andrey Viktorovich Abramov,MALE,24,18-25,176,70,RUS,4,6,2008,Summer,Archery,Archery Men's Individual,Not Registered
+541,Andrey Viktorovich Abramov,MALE,24,18-25,176,70,RUS,4,6,2008,Summer,Archery,Archery Men's Team,Not Registered
+542,Nikolay Kuzmich Abramov,MALE,30,25-30,164,59,URS,4,6,1964,Summer,Athletics,Athletics Men's Marathon,Not Registered
+543,Pavel Sergeyevich Abramov,MALE,25,18-25,198,89,RUS,4,6,2004,Summer,Volleyball,Volleyball Men's Volleyball,Bronze
+545,Valery Aleksandrovich Abramov,MALE,23,18-25,173,61,URS,4,6,1980,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+546,Inna Vladimirovna Abramova,Female,21,18-25,172,63,URS,4,6,1988,Summer,Swimming,Swimming Women's 50 metres Freestyle,Not Registered
+546,Inna Vladimirovna Abramova,Female,21,18-25,172,63,URS,4,6,1988,Summer,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,Not Registered
+547,Nelli Mikhaylovna Abramova,Female,24,18-25,171,60,URS,4,6,1964,Summer,Volleyball,Volleyball Women's Volleyball,Silver
+551,Aliyah Abrams,Female,19,18-25,163,53,GUY,4,6,2016,Summer,Athletics,Athletics Women's 400 metres,Not Registered
+552,Colin Winston Abrams,MALE,32,Over 30,180,70,GUY,4,6,1988,Summer,Cycling,Cycling Men's Sprint,Not Registered
+553,John Charles Abrams,MALE,22,18-25,183,NULL,NZL,4,6,1956,Summer,Hockey,Hockey Men's Hockey,Not Registered
+553,John Charles Abrams,MALE,25,18-25,183,NULL,NZL,4,6,1960,Summer,Hockey,Hockey Men's Hockey,Not Registered
+554,Benik Abramyan,MALE,31,Over 30,186,115,GEO,4,6,2016,Summer,Athletics,Athletics Men's Shot Put,Not Registered
+555,Antnio da Cunha Meneses Martins Abrantes,MALE,20,18-25,176,68,POR,4,6,1988,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+555,Antnio da Cunha Meneses Martins Abrantes,MALE,20,18-25,176,68,POR,4,6,1988,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+555,Antnio da Cunha Meneses Martins Abrantes,MALE,24,18-25,176,68,POR,4,6,1992,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+555,Antnio da Cunha Meneses Martins Abrantes,MALE,28,25-30,176,68,POR,4,6,1996,Summer,Athletics,Athletics Men's 800 metres,Not Registered
+556,Arnaldo Lus Isaas Abrantes,MALE,21,18-25,183,72,POR,4,6,2008,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+556,Arnaldo Lus Isaas Abrantes,MALE,25,18-25,183,72,POR,4,6,2012,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+557,Arnaldo Joaquim Castro Abrantes,MALE,26,25-30,174,68,POR,4,6,1988,Summer,Athletics,Athletics Men's 4 x 100 metres Relay,Not Registered
+558,David Abrard,MALE,19,18-25,187,81,FRA,4,6,1996,Summer,Swimming,Swimming Men's 200 metres Butterfly,Not Registered
+560,Amir Abrashi,MALE,22,18-25,172,70,SUI,4,6,2012,Summer,Football,Football Men's Football,Not Registered
+563,Diogo Ferreira Tribolet de Abreu,MALE,22,18-25,183,73,POR,4,6,2016,Summer,Trampolining,Trampolining Men's Individual,Not Registered
+564,Eloy Abreu Morales,MALE,20,18-25,160,54,CUB,4,6,1976,Summer,Wrestling,"Wrestling Men's Flyweight, Freestyle",Not Registered
+565,Glauclio Serro Abreu,MALE,26,25-30,185,75,BRA,4,6,2004,Summer,Boxing,Boxing Men's Middleweight,Not Registered
+566,Jos Filipe Abreu,MALE,20,18-25,159,64,POR,4,6,1968,Summer,Gymnastics,Gymnastics Men's Individual All-Around,Not Registered
+566,Jos Filipe Abreu,MALE,20,18-25,159,64,POR,4,6,1968,Summer,Gymnastics,Gymnastics Men's Floor Exercise,Not Registered
+566,Jos Filipe Abreu,MALE,20,18-25,159,64,POR,4,6,1968,Summer,Gymnastics,Gymnastics Men's Horse Vault,Not Registered
+566,Jos Filipe Abreu,MALE,20,18-25,159,64,POR,4,6,1968,Summer,Gymnastics,Gymnastics Men's Parallel Bars,Not Registered
+566,Jos Filipe Abreu,MALE,20,18-25,159,64,POR,4,6,1968,Summer,Gymnastics,Gymnastics Men's Horizontal Bar,Not Registered
+566,Jos Filipe Abreu,MALE,20,18-25,159,64,POR,4,6,1968,Summer,Gymnastics,Gymnastics Men's Rings,Not Registered
+566,Jos Filipe Abreu,MALE,20,18-25,159,64,POR,4,6,1968,Summer,Gymnastics,Gymnastics Men's Pommelled Horse,Not Registered
+567,Emilio Julio Abreu,MALE,22,18-25,NULL,NULL,PAR,4,6,1976,Summer,Swimming,Swimming Men's 200 metres Breaststroke,Not Registered
+567,Emilio Julio Abreu,MALE,22,18-25,NULL,NULL,PAR,4,6,1976,Summer,Swimming,Swimming Men's 200 metres Butterfly,Not Registered
+567,Emilio Julio Abreu,MALE,22,18-25,NULL,NULL,PAR,4,6,1976,Summer,Swimming,Swimming Men's 400 metres Individual Medley,Not Registered
+568,Morais Santos Abreu,MALE,40,Over 30,188,73,ANG,4,6,2008,Summer,Beach Volleyball,Beach Volleyball Men's Beach Volleyball,Not Registered
+569,Paulo Francisco Joazeiro de Abreu,MALE,18,18-25,176,78,BRA,4,6,1984,Summer,Water Polo,Water Polo Men's Water Polo,Not Registered
+570,Pedro Abreu Pascal,MALE,23,18-25,200,88,CUB,4,6,1980,Summer,Basketball,Basketball Men's Basketball,Not Registered
+571,Rubn Abreu Rivero,MALE,24,18-25,177,71,VEN,4,6,1996,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+572,Rui Pinto de Abreu,MALE,15,Under 18,177,64,POR,4,6,1976,Summer,Swimming,Swimming Men's 400 metres Freestyle,Not Registered
+572,Rui Pinto de Abreu,MALE,15,Under 18,177,64,POR,4,6,1976,Summer,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,Not Registered
+572,Rui Pinto de Abreu,MALE,19,18-25,177,64,POR,4,6,1980,Summer,Swimming,Swimming Men's 100 metres Freestyle,Not Registered
+572,Rui Pinto de Abreu,MALE,19,18-25,177,64,POR,4,6,1980,Summer,Swimming,Swimming Men's 200 metres Freestyle,Not Registered
+572,Rui Pinto de Abreu,MALE,19,18-25,177,64,POR,4,6,1980,Summer,Swimming,Swimming Men's 100 metres Backstroke,Not Registered
+573,Franck Abrial,MALE,24,18-25,174,68,FRA,4,6,1988,Summer,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",Not Registered
+574,rika Abril Surez,Female,34,Over 30,164,52,COL,4,6,2012,Summer,Athletics,Athletics Women's Marathon,Not Registered
+574,rika Abril Surez,Female,38,Over 30,164,52,COL,4,6,2016,Summer,Athletics,Athletics Women's Marathon,Not Registered
+575,Laura Valentina Abril Restrepo,Female,22,18-25,162,50,COL,4,6,2012,Summer,Cycling,"Cycling Women's Mountainbike, Cross-Country",Not Registered
+576,"Alejandro ""lex"" Abrines Redondo",MALE,23,18-25,198,93,ESP,4,6,2016,Summer,Basketball,Basketball Men's Basketball,Bronze
+577,Knut Richard brink,MALE,23,18-25,NULL,NULL,SWE,4,6,1912,Summer,Athletics,Athletics Men's Javelin Throw,Not Registered
+577,Knut Richard brink,MALE,23,18-25,NULL,NULL,SWE,4,6,1912,Summer,Athletics,"Athletics Men's Javelin Throw, Both Hands",Not Registered
+578,Bourhan Abro,MALE,21,18-25,180,70,DJI,4,6,2016,Summer,Swimming,Swimming Men's 50 metres Freestyle,Not Registered
+579,Anastasiya Aleksandrovna Abrosimova,Female,26,25-30,164,51,RUS,4,6,2016,Summer,Triathlon,Triathlon Women's Olympic Distance,Not Registered
+580,Svetlana Olegovna Abrosimova,Female,20,18-25,188,77,RUS,4,6,2000,Summer,Basketball,Basketball Women's Basketball,Not Registered
+580,Svetlana Olegovna Abrosimova,Female,28,25-30,188,77,RUS,4,6,2008,Summer,Basketball,Basketball Women's Basketball,Bronze
+581,Elisabeta Abrudeanu,Female,26,25-30,NULL,NULL,ROU,4,6,1952,Summer,Gymnastics,Gymnastics Women's Individual All-Around,Not Registered
+581,Elisabeta Abrudeanu,Female,26,25-30,NULL,NULL,ROU,4,6,1952,Summer,Gymnastics,Gymnastics Women's Team All-Around,Not Registered
+581,Elisabeta Abrudeanu,Female,26,25-30,NULL,NULL,ROU,4,6,1952,Summer,Gymnastics,Gymnastics Women's Team Portable Apparatus,Not Registered
+581,Elisabeta Abrudeanu,Female,26,25-30,NULL,NULL,ROU,4,6,1952,Summer,Gymnastics,Gymnastics Women's Floor Exercise,Not Registered
+581,Elisabeta Abrudeanu,Female,26,25-30,NULL,NULL,ROU,4,6,1952,Summer,Gymnastics,Gymnastics Women's Horse Vault,Not Registered
+581,Elisabeta Abrudeanu,Female,26,25-30,NULL,NULL,ROU,4,6,1952,Summer,Gymnastics,Gymnastics Women's Uneven Bars,Not Registered
+581,Elisabeta Abrudeanu,Female,26,25-30,NULL,NULL,ROU,4,6,1952,Summer,Gymnastics,Gymnastics Women's Balance Beam,Not Registered
+582,Saypulla Atavovich Absaidov,MALE,22,18-25,168,68,URS,4,6,1980,Summer,Wrestling,"Wrestling Men's Lightweight, Freestyle",Gold
+583,Julien Absalon,MALE,23,18-25,180,68,FRA,4,6,2004,Summer,Cycling,"Cycling Men's Mountainbike, Cross-Country",Gold
+583,Julien Absalon,MALE,27,25-30,180,68,FRA,4,6,2008,Summer,Cycling,"Cycling Men's Mountainbike, Cross-Country",Gold
+583,Julien Absalon,MALE,31,Over 30,180,68,FRA,4,6,2012,Summer,Cycling,"Cycling Men's Mountainbike, Cross-Country",Not Registered
+583,Julien Absalon,MALE,35,Over 30,180,68,FRA,4,6,2016,Summer,Cycling,"Cycling Men's Mountainbike, Cross-Country",Not Registered
+584,Ayele Abshero Biza,MALE,21,18-25,168,62,ETH,4,6,2012,Summer,Athletics,Athletics Men's Marathon,Not Registered
+585,Brian Kenneth Abshire,MALE,24,18-25,180,59,USA,4,6,1988,Summer,Athletics,"Athletics Men's 3,000 metres Steeplechase",Not Registered
+587,Gudrun Maria Abt,Female,26,25-30,178,61,FRG,4,6,1988,Summer,Athletics,Athletics Women's 400 metres Hurdles,Not Registered
+587,Gudrun Maria Abt,Female,26,25-30,178,61,FRG,4,6,1988,Summer,Athletics,Athletics Women's 4 x 400 metres Relay,Not Registered
+589,Najmeh Abtin,Female,25,18-25,160,57,IRI,4,6,2008,Summer,Archery,Archery Women's Individual,Not Registered
+590,Mohamed Abu Abdullah,MALE,27,25-30,173,74,BAN,4,6,2008,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+591,Abdul Wahab Abu Al-Hail Labid,MALE,27,25-30,180,79,IRQ,4,6,2004,Summer,Football,Football Men's Football,Not Registered
+592,Mohamed Ahmed Abu Ali,MALE,19,18-25,NULL,NULL,KSA,4,6,1984,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+592,Mohamed Ahmed Abu Ali,MALE,19,18-25,NULL,NULL,KSA,4,6,1984,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+593,Methkal Marouf Abu Drais,MALE,28,25-30,168,67,JOR,4,6,2012,Summer,Athletics,Athletics Men's Marathon,Not Registered
+593,Methkal Marouf Abu Drais,MALE,32,Over 30,168,67,JOR,4,6,2016,Summer,Athletics,Athletics Men's Marathon,Not Registered
+594,Lailin Abu Hassan,MALE,22,18-25,NULL,NULL,MAS,4,6,1992,Summer,Hockey,Hockey Men's Hockey,Not Registered
+594,Lailin Abu Hassan,MALE,26,25-30,NULL,NULL,MAS,4,6,1996,Summer,Hockey,Hockey Men's Hockey,Not Registered
+595,Majed Abu Maraheel,MALE,33,Over 30,180,76,PLE,4,6,1996,Summer,Athletics,"Athletics Men's 10,000 metres",Not Registered
+596,Maher Abu Rmilah,MALE,28,25-30,172,72,PLE,4,6,2012,Summer,Judo,Judo Men's Lightweight,Not Registered
+597,Mohamed Ahmed Abu Sobea,MALE,NULL,NULL,NULL,NULL,EGY,4,6,1936,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+598,Omar Abu-Fares,MALE,16,Under 18,178,69,JOR,4,6,2000,Summer,Swimming,Swimming Men's 200 metres Individual Medley,Not Registered
+598,Omar Abu-Fares,MALE,19,18-25,178,69,JOR,4,6,2004,Summer,Swimming,Swimming Men's 100 metres Backstroke,Not Registered
+599,Bektas Abubakirov,MALE,23,18-25,165,54,KAZ,4,6,1996,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+600,Nagmeldin Ali Abubakr,MALE,18,18-25,172,63,SUD,4,6,2004,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+600,Nagmeldin Ali Abubakr,MALE,22,18-25,172,63,SUD,4,6,2008,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+601,Sanna Abubkheet,Female,19,18-25,157,52,PLE,4,6,2004,Summer,Athletics,Athletics Women's 800 metres,Not Registered
+602,Abudoureheman,MALE,22,18-25,182,75,CHN,4,6,2000,Summer,Boxing,Boxing Men's Middleweight,Not Registered
+603,Juma Abudu,MALE,24,18-25,170,59,KEN,4,6,1988,Summer,Weightlifting,Weightlifting Men's Featherweight,Not Registered
+604,"Folashade ""Shade"" Abugan",Female,17,Under 18,150,64,NGR,4,6,2008,Summer,Athletics,Athletics Women's 400 metres,Not Registered
+604,"Folashade ""Shade"" Abugan",Female,17,Under 18,150,64,NGR,4,6,2008,Summer,Athletics,Athletics Women's 4 x 400 metres Relay,Not Registered
+605,Fernando J. Abugattas Aboino,MALE,20,18-25,190,80,PER,4,6,1968,Summer,Athletics,Athletics Men's High Jump,Not Registered
+606,Roberto Abugattas Aboino,MALE,21,18-25,182,77,PER,4,6,1964,Summer,Athletics,Athletics Men's High Jump,Not Registered
+606,Roberto Abugattas Aboino,MALE,25,18-25,182,77,PER,4,6,1968,Summer,Athletics,Athletics Men's High Jump,Not Registered
+607,Hamza Abughalia,MALE,23,18-25,NULL,85,LBA,4,6,2004,Summer,Weightlifting,Weightlifting Men's Light-Heavyweight,Not Registered
+608,Ahmad Abughaush,MALE,20,18-25,178,68,JOR,4,6,2016,Summer,Taekwondo,Taekwondo Men's Featherweight,Gold
+609,Fartun Abukar Omar,Female,18,18-25,170,58,SOM,4,6,2004,Summer,Athletics,Athletics Women's 100 metres,Not Registered
+610,Ginko Abukawa-Chiba,Female,22,18-25,148,46,JPN,4,6,1960,Summer,Gymnastics,Gymnastics Women's Individual All-Around,Not Registered
+610,Ginko Abukawa-Chiba,Female,22,18-25,148,46,JPN,4,6,1960,Summer,Gymnastics,Gymnastics Women's Team All-Around,Not Registered
+610,Ginko Abukawa-Chiba,Female,22,18-25,148,46,JPN,4,6,1960,Summer,Gymnastics,Gymnastics Women's Floor Exercise,Not Registered
+610,Ginko Abukawa-Chiba,Female,22,18-25,148,46,JPN,4,6,1960,Summer,Gymnastics,Gymnastics Women's Horse Vault,Not Registered
+610,Ginko Abukawa-Chiba,Female,22,18-25,148,46,JPN,4,6,1960,Summer,Gymnastics,Gymnastics Women's Uneven Bars,Not Registered
+610,Ginko Abukawa-Chiba,Female,22,18-25,148,46,JPN,4,6,1960,Summer,Gymnastics,Gymnastics Women's Balance Beam,Not Registered
+610,Ginko Abukawa-Chiba,Female,26,25-30,148,46,JPN,4,6,1964,Summer,Gymnastics,Gymnastics Women's Individual All-Around,Not Registered
+610,Ginko Abukawa-Chiba,Female,26,25-30,148,46,JPN,4,6,1964,Summer,Gymnastics,Gymnastics Women's Team All-Around,Bronze
+610,Ginko Abukawa-Chiba,Female,26,25-30,148,46,JPN,4,6,1964,Summer,Gymnastics,Gymnastics Women's Floor Exercise,Not Registered
+610,Ginko Abukawa-Chiba,Female,26,25-30,148,46,JPN,4,6,1964,Summer,Gymnastics,Gymnastics Women's Horse Vault,Not Registered
+610,Ginko Abukawa-Chiba,Female,26,25-30,148,46,JPN,4,6,1964,Summer,Gymnastics,Gymnastics Women's Uneven Bars,Not Registered
+610,Ginko Abukawa-Chiba,Female,26,25-30,148,46,JPN,4,6,1964,Summer,Gymnastics,Gymnastics Women's Balance Beam,Not Registered
+611,Mohammed Abukhousa,MALE,23,18-25,170,67,PLE,4,6,2016,Summer,Athletics,Athletics Men's 100 metres,Not Registered
+612,Mohammad Abulibdeh,MALE,28,25-30,183,68,JOR,4,6,2012,Summer,Taekwondo,Taekwondo Men's Featherweight,Not Registered
+613,Kariman Abuljadayel,Female,22,18-25,180,70,KSA,4,6,2016,Summer,Athletics,Athletics Women's 100 metres,Not Registered
+614,Jos Manuel Abundis Sandoval,MALE,23,18-25,177,72,MEX,4,6,1996,Summer,Football,Football Men's Football,Not Registered
+615,Abdullah Abuqrais,MALE,25,18-25,163,65,KUW,4,6,1984,Summer,Diving,Diving Men's Springboard,Not Registered
+615,Abdullah Abuqrais,MALE,25,18-25,163,65,KUW,4,6,1984,Summer,Diving,Diving Men's Platform,Not Registered
+616,Shigeru Aburaya,MALE,27,25-30,163,51,JPN,4,6,2004,Summer,Athletics,Athletics Men's Marathon,Not Registered
+617,Cristobal Alejandro Aburto Tinoco,MALE,28,25-30,161,60,MEX,4,6,2004,Summer,Judo,Judo Men's Extra-Lightweight,Not Registered
+618,Aleksandr Veniaminovich Abushakhmetov,MALE,21,18-25,189,81,URS,4,6,1976,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+618,Aleksandr Veniaminovich Abushakhmetov,MALE,21,18-25,189,81,URS,4,6,1976,Summer,Fencing,"Fencing Men's epee, Team",Not Registered
+618,Aleksandr Veniaminovich Abushakhmetov,MALE,25,18-25,189,81,URS,4,6,1980,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+618,Aleksandr Veniaminovich Abushakhmetov,MALE,25,18-25,189,81,URS,4,6,1980,Summer,Fencing,"Fencing Men's epee, Team",Bronze
+619,Magomedgasan Mingazhutdinovich Abushev,MALE,20,18-25,170,62,URS,4,6,1980,Summer,Wrestling,"Wrestling Men's Featherweight, Freestyle",Gold
+620,Kanat Kalizhanovich Abutalipov,MALE,25,18-25,168,56,KAZ,4,6,2008,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+620,Kanat Kalizhanovich Abutalipov,MALE,29,25-30,168,56,KAZ,4,6,2012,Summer,Boxing,Boxing Men's Bantamweight,Not Registered
+621,Anas Sameer N. H. Abuyousuf,MALE,14,Under 18,181,77,QAT,4,6,2004,Summer,Swimming,Swimming Men's 400 metres Freestyle,Not Registered
+622,Ali Abuzamia,MALE,19,18-25,185,80,JOR,4,6,1988,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+623,Irina Alekseyevna Abysova,Female,27,25-30,175,56,RUS,4,6,2008,Summer,Triathlon,Triathlon Women's Olympic Distance,Not Registered
+623,Irina Alekseyevna Abysova,Female,31,Over 30,175,56,RUS,4,6,2012,Summer,Triathlon,Triathlon Women's Olympic Distance,Not Registered
+624,Srr Acar,MALE,NULL,NULL,170,78,TUR,4,6,1968,Summer,Wrestling,"Wrestling Men's Welterweight, Greco-Roman",Not Registered
+625,E. Doan Acarbay,MALE,21,18-25,NULL,NULL,TUR,4,6,1948,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+625,E. Doan Acarbay,MALE,21,18-25,NULL,NULL,TUR,4,6,1948,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+625,E. Doan Acarbay,MALE,25,18-25,NULL,NULL,TUR,4,6,1952,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+625,E. Doan Acarbay,MALE,25,18-25,NULL,NULL,TUR,4,6,1952,Summer,Athletics,Athletics Men's 400 metres Hurdles,Not Registered
+626,Alain Acart,MALE,21,18-25,175,67,FRA,4,6,1972,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",Not Registered
+626,Alain Acart,MALE,25,18-25,175,67,FRA,4,6,1976,Summer,Canoeing,"Canoeing Men's Canadian Doubles, 1,000 metres",Not Registered
+627,Andreea Roxana Acatrinei,Female,16,Under 18,150,40,ROU,4,6,2008,Summer,Gymnastics,Gymnastics Women's Individual All-Around,Not Registered
+627,Andreea Roxana Acatrinei,Female,16,Under 18,150,40,ROU,4,6,2008,Summer,Gymnastics,Gymnastics Women's Team All-Around,Bronze
+627,Andreea Roxana Acatrinei,Female,16,Under 18,150,40,ROU,4,6,2008,Summer,Gymnastics,Gymnastics Women's Floor Exercise,Not Registered
+627,Andreea Roxana Acatrinei,Female,16,Under 18,150,40,ROU,4,6,2008,Summer,Gymnastics,Gymnastics Women's Balance Beam,Not Registered
+628,Jacques Accambray,MALE,22,18-25,194,125,FRA,4,6,1972,Summer,Athletics,Athletics Men's Hammer Throw,Not Registered
+628,Jacques Accambray,MALE,26,25-30,194,125,FRA,4,6,1976,Summer,Athletics,Athletics Men's Hammer Throw,Not Registered
+629,William Accambray,MALE,24,18-25,194,104,FRA,4,6,2012,Summer,Handball,Handball Men's Handball,Gold
+630,Anna Accensi Abella,Female,26,25-30,NULL,NULL,ESP,4,6,1996,Summer,Rowing,Rowing Women's Lightweight Double Sculls,Not Registered
+631,Ezio Acchini,MALE,26,25-30,NULL,NULL,ITA,4,6,1948,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+632,Mario Acchini,MALE,33,Over 30,NULL,NULL,ITA,4,6,1948,Summer,Rowing,Rowing Men's Coxed Eights,Not Registered
+635,Alfredo Accorsi,MALE,27,25-30,NULL,NULL,ITA,4,6,1908,Summer,Gymnastics,Gymnastics Men's Team All-Around,Not Registered
+636,Enrique Accorsi Teuthorn,MALE,31,Over 30,NULL,NULL,CHI,4,6,1948,Summer,Fencing,"Fencing Men's Foil, Individual",Not Registered
+636,Enrique Accorsi Teuthorn,MALE,31,Over 30,NULL,NULL,CHI,4,6,1948,Summer,Fencing,"Fencing Men's epee, Individual",Not Registered
+637,Eusebio Acea Colarte,MALE,31,Over 30,190,95,CUB,4,6,2000,Summer,Rowing,Rowing Men's Quadruple Sculls,Not Registered
+638,Raidel Acea Morales,MALE,21,18-25,NULL,NULL,CUB,4,6,2012,Summer,Athletics,Athletics Men's 4 x 400 metres Relay,Not Registered
+639,Domingo Gmez-Acedo Villanueva,MALE,21,18-25,NULL,NULL,ESP,4,6,1920,Summer,Football,Football Men's Football,Silver
+640,Carmen Acedo Jorge,Female,17,Under 18,NULL,NULL,ESP,4,6,1992,Summer,Rhythmic Gymnastics,Rhythmic Gymnastics Women's Individual,Not Registered
+641,Jos Aceituno,MALE,23,18-25,167,58,CHI,4,6,1960,Summer,Athletics,"Athletics Men's 5,000 metres",Not Registered
+642,Ervin S. Acel,MALE,39,Over 30,NULL,NULL,USA,4,6,1928,Summer,Fencing,"Fencing Men's Sabre, Team",Not Registered
+643,Marco Acerbi,MALE,23,18-25,190,74,ITA,4,6,1972,Summer,Athletics,Athletics Men's 110 metres Hurdles,Not Registered
+644,Claudia Acerenza Marez,Female,22,18-25,160,55,URU,4,6,1988,Summer,Athletics,Athletics Women's 100 metres,Not Registered
+644,Claudia Acerenza Marez,Female,22,18-25,160,55,URU,4,6,1988,Summer,Athletics,Athletics Women's 200 metres,Not Registered
+645,Elmer ngel Acevedo,MALE,19,18-25,NULL,NULL,ESA,4,6,1968,Summer,Football,Football Men's Football,Not Registered
+646,Anibl Santiago Acevedo,MALE,21,18-25,176,67,PUR,4,6,1992,Summer,Boxing,Boxing Men's Welterweight,Bronze
+647,Eyne Acevedo Tabares,MALE,22,18-25,NULL,67,COL,4,6,1992,Summer,Weightlifting,Weightlifting Men's Lightweight,Not Registered
+648,Fabio Acevedo,MALE,22,18-25,171,70,COL,4,6,1972,Summer,Cycling,"Cycling Men's Road Race, Individual",Not Registered
+648,Fabio Acevedo,MALE,22,18-25,171,70,COL,4,6,1972,Summer,Cycling,Cycling Men's 100 kilometres Team Time Trial,Not Registered
+649,Fernando Acevedo Portugues,MALE,22,18-25,175,65,PER,4,6,1968,Summer,Athletics,Athletics Men's 200 metres,Not Registered
+649,Fernando Acevedo Portugues,MALE,26,25-30,175,65,PER,4,6,1972,Summer,Athletics,Athletics Men's 400 metres,Not Registered
+650,Javier Carlos Acevedo,MALE,18,18-25,182,68,CAN,4,6,2016,Summer,Swimming,Swimming Men's 100 metres Backstroke,Not Registered
+650,Javier Carlos Acevedo,MALE,18,18-25,182,68,CAN,4,6,2016,Summer,Swimming,Swimming Men's 4 x 100 metres Medley Relay,Not Registered
